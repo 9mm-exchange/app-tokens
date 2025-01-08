@@ -1,6 +1,6 @@
 {
-    "name": "Piteas Tokens",
-    "timestamp": "2025-01-06T02:23:19.436Z",
+    "name": "9mm default Tokens List",
+    "timestamp": "2025-01-08T02:20:19.436Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -47,6 +47,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
         },
+        {
+            "chainId": 369,
+            "address": "0x655cdd69442912076a05975c26ea59bad179244d",
+            "name": "Pulse Inu",
+            "symbol": "PINU",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/30473/thumb/PULSE_SHIBA_transparant.png?1696529360"
+          },
         {
             "chainId": 369,
             "name": "Dai from Ethereum",
@@ -288,6 +296,14 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
         },
         {
+            "name": "BEET",
+            "symbol": "BEET",
+            "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
+          },
+        {
             "chainId": 369,
             "name": "Internet Money",
             "address": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
@@ -343,6 +359,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
         },
+        {
+            "chainId": 369,
+            "address": "0x853a8ab1c365ea54719eb13a54d6b22f1fbe7feb",
+            "name": "InvestDex",
+            "symbol": "INVEST",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/16382/thumb/FINAL_FINAL.png?1696515980"
+          },
         {
             "chainId": 369,
             "name": "WATT",
@@ -712,6 +736,22 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6.png"
         },
         {
+            "name": "Apes On Yachts",
+            "symbol": "AHOY",
+            "address": "0x891B9eE2F026f8099bd2D15C201fd3E44d708A08",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x891B9eE2F026f8099bd2D15C201fd3E44d708A08.png"
+          },
+        {
+            "name": "Jamaican Fruit Bat",
+            "symbol": "iambfruits",
+            "address": "0x6e6B06f61E0539e0ee24a85A9bF82027e76dFEcE",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6e6B06f61E0539e0ee24a85A9bF82027e76dFEcE.png"
+          },
+        {
             "chainId": 369,
             "name": "dOWN",
             "address": "0x2556F7f8d82EbcdD7b821b0981C38D9dA9439CdD",
@@ -913,6 +953,22 @@
         },
         {
             "chainId": 369,
+            "address": "0x303f764a9c9511c12837cd2d1ecf13d4a6f99e17",
+            "name": "Atrofarm",
+            "symbol": "ATROFA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32044/thumb/DALL%C2%B7E_2023-09-22_19.32.04.png?1696530841"
+          },
+        {
+            "chainId": 369,
+            "address": "0xca66b54a8a4ad9a231dd70d3605d1ff6ae95d427",
+            "name": "Chirp Finance",
+            "symbol": "CHIRP",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30908/thumb/chirp_icon.png?1696529753"
+          },
+        {
+            "chainId": 369,
             "name": "LUSD Stablecoin",
             "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
             "symbol": "pLUSD",
@@ -976,6 +1032,14 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8.png"
         },
         {
+            "name": "eCOM",
+            "symbol": "eCOM",
+            "address": "0x0195D5990a7D6d7Ee7a3A4610E357bB660494BA0",
+            "chainId": 369,
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0195D5990a7D6d7Ee7a3A4610E357bB660494BA0.png"
+          },
+        {
             "chainId": 369,
             "name": "Basketball",
             "address": "0x35F525BEe58624b89879CDAfAdA040F5840D4460",
@@ -1008,6 +1072,22 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xd687FF2C9C5294f4A2bC0300B46eA921dB312063.png"
         },
         {
+            "name": "Kakadu",
+            "symbol": "Kakadu",
+            "address": "0x46565877E756b2ACca78faf2F7FF558DafbdD3E4",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x46565877E756b2ACca78faf2F7FF558DafbdD3E4.png"
+          },
+          {
+            "name": "NeckBeard Coin",
+            "symbol": "NBC",
+            "address": "0xc9f523Fce37A28893A83Da68BbA03835D97Ae059",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xc9f523Fce37A28893A83Da68BbA03835D97Ae059.png"
+          },
+        {
             "chainId": 369,
             "name": "PulseInu",
             "address": "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
@@ -1015,6 +1095,22 @@
             "decimals": 12,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd.png"
         },
+        {
+            "chainId": 369,
+            "address": "0x39b9d781dad0810d07e24426c876217218ad353d",
+            "name": "Pulsechain FLOW",
+            "symbol": "FLOW",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30749/thumb/Flow-circle-aqua-150x150.png?1696529618"
+          },
+        {
+            "chainId": 369,
+            "address": "0x0b14edb2ffaea3888f62d5fbfb2b88c53a987ddd",
+            "name": "WhalesCandyPLS com",
+            "symbol": "WC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30658/thumb/wcpp1.png?1696529528"
+          },
         {
             "chainId": 369,
             "name": "PulseLN Founder Token",
@@ -1031,6 +1127,22 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4c00e339F5dC4E97639d6C1c0a0ea4a022a66dB0.png"
         },
+        {
+            "name": "ALL TIME HIGH",
+            "symbol": "ATH",
+            "address": "0x2Ca480415aB96caf6e3EB0A8687E89EdBAB1DF4c",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2Ca480415aB96caf6e3EB0A8687E89EdBAB1DF4c.png"
+          },
+          {
+            "name": "Make Ethereum Great Again",
+            "symbol": "MEGA",
+            "address": "0x8eDb13CE75562056DFf2221D193557Fb4A05770D",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8eDb13CE75562056DFf2221D193557Fb4A05770D.png"
+          },  
         {
             "chainId": 369,
             "name": "Degen Anonymous",
@@ -1055,6 +1167,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x93Ad3C61f5e39c0DA07fCEbAe0261eAA2d3A9314.png"
         },
+        {
+            "name": "PUSSY (HOAX)",
+            "symbol": "PUSSY",
+            "address": "0x4CB4eDdE04772332a42ECb039f3790e17733B4B8",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
+          },
         {
             "chainId": 369,
             "name": "PulseCoin",
@@ -1215,6 +1335,30 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA74CE5E7C5AB50e22ef0daAfa555f8Cb2B6b9320.png"
         },
+        {
+            "name": "Peppa",
+            "symbol": "PEPPA",
+            "address": "0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa.png"
+          },
+        {
+            "name": "CAPSLOCKGANG",
+            "symbol": "CLG",
+            "address": "0x9b279454E850f7BcEFf39bd24804AcADDAC50f7E",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x9b279454E850f7BcEFf39bd24804AcADDAC50f7E.png"
+          },
+        {
+            "name": "HONK",
+            "symbol": "HONK",
+            "address": "0x138568b12b027fA604Ad1d2259A6785ff1B8f8CF",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x138568b12b027fA604Ad1d2259A6785ff1B8f8CF.png"
+          },
         {
             "chainId": 369,
             "name": "BOBO",
@@ -1464,6 +1608,14 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68.png"
         },
         {
+            "name": "TitsWifVag",
+            "symbol": "TWV",
+            "address": "0x3bE6A0ED144A5A39d423765b2DC3109d2E7ed8Be",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3bE6A0ED144A5A39d423765b2DC3109d2E7ed8Be.png"
+          },
+        {
             "chainId": 369,
             "name": "Function Island Farm",
             "address": "0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea",
@@ -1486,6 +1638,14 @@
             "symbol": "SPKY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4Aeb2D80f7A3d310072F0fCAf13B1E943B49b138.png"
+        },
+        {
+            "name": "Hedron S'mores Address",
+            "symbol": "HSA",
+            "address": "0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE",
+            "chainId": 369,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE.png"
         },
         {
             "chainId": 369,
@@ -1527,6 +1687,54 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8c4a50c87e348f602ac6a59f4Da857ee23307a42.png"
         },
+        {
+            "name": "RHM",
+            "symbol": "RHM",
+            "address": "0x8f1D7d2f81BE5DBd82313BEeDA0877Fb34351756",
+            "chainId": 369,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8f1D7d2f81BE5DBd82313BEeDA0877Fb34351756.png"
+          },
+          {
+            "chainId": 369,
+            "address": "0x0ef57e7382be66f41c52307d19dd84a8b55b5ee2",
+            "name": "RichAI",
+            "symbol": "RICHAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30272/thumb/Group_1000002759.png?1696529179"
+          },
+          {
+            "name": "RHXL",
+            "symbol": "RHXL",
+            "address": "0x0784e455D0a3adb2c02Aa241F029B9fc3F55FA5A",
+            "chainId": 369,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0784e455D0a3adb2c02Aa241F029B9fc3F55FA5A.png"
+          },  
+        {
+            "name": "Furu Token",
+            "symbol": "FURU",
+            "address": "0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66.png"
+          },
+        {
+            "name": "BOOMER",
+            "symbol": "BOOMER",
+            "address": "0x27b67bd4b710C352a5716b77ce1bfc2beb5CA1e2",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x27b67bd4b710C352a5716b77ce1bfc2beb5CA1e2.png"
+          },
+        {
+            "name": "RicHoord hArt",
+            "symbol": "HART",
+            "address": "0xD11f64ced78fd0235433fB737c992781E5Ce0C82",
+            "chainId": 369,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xD11f64ced78fd0235433fB737c992781E5Ce0C82.png"
+          },
         {
             "chainId": 369,
             "name": "Chiitan",
@@ -1696,6 +1904,22 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6810e776880C02933D47DB1b9fc05908e5386b96.png"
         },
         {
+            "name": "Bitcorn",
+            "symbol": "BTC",
+            "address": "0x6526779a6AdA09f2Dd3bbB3AF92a280c2c8a1860",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6526779a6AdA09f2Dd3bbB3AF92a280c2c8a1860.png"
+          },
+          {
+            "name": "EXTREME",
+            "symbol": "EXT",
+            "address": "0x1D5bE0c1e3Cb01d8Cd871970a1bd51a262554a87",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1D5bE0c1e3Cb01d8Cd871970a1bd51a262554a87.png"
+          },  
+        {
             "chainId": 369,
             "name": "Pulse Drip",
             "address": "0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
@@ -1751,6 +1975,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xaC9052cb220951c3CCA0Beb4C084A7D4fd2e3428.png"
         },
+        {
+            "name": "Enigma404",
+            "symbol": "Enigma404",
+            "address": "0x51AD4671492dcf0544506f1Fe13C82c1Fb874FA2",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x51AD4671492dcf0544506f1Fe13C82c1Fb874FA2.png"
+          },
         {
             "chainId": 369,
             "name": "MatiAllin",
@@ -2622,7 +2854,39 @@
             "symbol": "MICHI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xdeFB2a9455B2d8f432d8cFe4355e0594787C23D5.png"
-        }
+        },
+        {
+            "name": "Peel Ⅱ Peel Cash",
+            "symbol": "PⅡP",
+            "address": "0x962A4859B3195D5218f9D5cC85adF17a3DC66593",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x962A4859B3195D5218f9D5cC85adF17a3DC66593.png"
+          },
+          {
+            "name": "KELO",
+            "symbol": "KELO",
+            "address": "0xA1cAFc0d6F4F0333c1136e0f759b029a6b07ca0B",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA1cAFc0d6F4F0333c1136e0f759b029a6b07ca0B.png"
+          },
+          {
+            "name": "Gold Pieces",
+            "symbol": "GP",
+            "address": "0xd826A77a9473C159b7b486903ACFF1a8357B6251",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xd826A77a9473C159b7b486903ACFF1a8357B6251.png"
+          },
+          {
+            "name": "Molerat",
+            "symbol": "RAT",
+            "address": "0x887326E8E567aE8E8dd49aCDd0aAE967A3B6DE51",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x887326E8E567aE8E8dd49aCDd0aAE967A3B6DE51.png"
+          },
     ],
-    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
 }
