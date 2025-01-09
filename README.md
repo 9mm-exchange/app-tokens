@@ -9,7 +9,7 @@ Adding or Updating a token
 
 1- Fork the repository
 
-2- Add the new token at the end of the token array in piteas-tokenlist.json
+2- Add the new token at the end of the token array in 9mm-tokenlist.json
 
   Please make sure that the new token follows this schema.
 
@@ -37,7 +37,6 @@ Adding or Updating a token
 # Notice:
 Please keep in mind that not every token can be listed, and it will need to be approved by the 9mm team. Here are some basic requirements:
 - The token must have at least $1K in major liquidity (LPs with liquid tokens)
-- Liquidity pools must be integrated with Piteas
 - The token's logo and details must be provided
 
 
