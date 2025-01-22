@@ -16,14 +16,6 @@
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
         },
         {
-            "chainId": 8453,
-            "name": "Coinbase Wrapped BTC",
-            "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
-            "symbol": "cbBTC",
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
-        },
-        {
             "chainId": 369,
             "name": "HEX",
             "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
