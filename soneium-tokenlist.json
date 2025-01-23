@@ -13,7 +13,39 @@
             "address": "0x4200000000000000000000000000000000000006",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "chainId": 1868,
+            "name": "Soneium Bridged USDC Soneium",
+            "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369.png"
+        },
+        {
+            "chainId": 1868,
+            "name": "Soneium Bridged Astar Soneium",
+            "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+            "symbol": "ASTAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441.png"
+        },
+        {
+            "chainId": 1868,
+            "name": "Soneium Bridged USDT Soneium",
+            "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35.png"
+        },
+        {
+            "chainId": 1868,
+            "name": "SONE",
+            "address": "0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb",
+            "symbol": "SONE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
