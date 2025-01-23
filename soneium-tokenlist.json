@@ -1,1 +1,20 @@
-
+{
+    "name": "9mm default Tokens List",
+    "timestamp": "2025-01-08T02:20:19.436Z",
+    "version": {
+        "major": 1,
+        "minor": 2,
+        "patch": 2
+    },
+    "tokens": [
+        {
+            "chainId": 1868,
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/1868/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+        }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
+}
