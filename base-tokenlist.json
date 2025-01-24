@@ -1,1 +1,84 @@
-
+{
+    "name": "9mm default Tokens List",
+    "timestamp": "2025-01-08T02:20:19.436Z",
+    "version": {
+        "major": 1,
+        "minor": 2,
+        "patch": 2
+    },
+    "tokens": [
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Pooh",
+      "symbol": "POOH",
+      "address": "0x1DaB2F89FD263B4F05A44D78Ce0B42Cf515BAA26",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x1DaB2F89FD263B4F05A44D78Ce0B42Cf515BAA26.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://tokens.9mm.pro/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://tokens.9mm.pro/base/usdc.png"
+    },
+    {
+      "name": "Larp Von Trier",
+      "symbol": "Larp",
+      "address": "0x591Aa5dE2ecf4f5559df4b1eFA0b48Ba0Fc44151",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x591Aa5dE2ecf4f5559df4b1eFA0b48Ba0Fc44151.png"
+    },
+    {
+      "name": "Melon Usk, Founder of SpaceY",
+      "symbol": "Melon Usk",
+      "address": "0x75Ef2024571e218A20Ef6F7b019D8ce55B49Ab6b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x75Ef2024571e218A20Ef6F7b019D8ce55B49Ab6b.png"
+    },
+    {
+      "name": "Wrapped HOA",
+      "symbol": "wHOA",
+      "address": "0xee642384091f4bb9ab457b875E4e209b5a0BD147",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0xee642384091f4bb9ab457b875E4e209b5a0BD147.png"
+    }
+  ],
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
+}
