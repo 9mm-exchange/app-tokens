@@ -16,6 +16,14 @@
       "logoURI": "https://tokens.9mm.pro/base/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
     {
+      "name": "Chia Warped XCH",
+      "symbol": "wXCH",
+      "address": "0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/base/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },     
+    {
       "name": "Pooh",
       "symbol": "POOH",
       "address": "0x1DaB2F89FD263B4F05A44D78Ce0B42Cf515BAA26",
