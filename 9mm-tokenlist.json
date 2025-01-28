@@ -2918,6 +2918,14 @@
             "chainId": 369,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xBFaECB1a05779b4e82B79Fa1D2C80269a4CF049D.png"
+        },
+        {
+            "name": "GOPUMPME",
+            "symbol": "PUMP",
+            "address": "0x78Ad9dA5d80a08AeDE9B0876B7A8807320DbDc9A",
+            "chainId": 369,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x78Ad9dA5d80a08AeDE9B0876B7A8807320DbDc9A.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
