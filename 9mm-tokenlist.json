@@ -3134,7 +3134,23 @@
             "symbol": "HEX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55C50875e890c7eE5621480baB02511C380E12C6.png"
-        }
+        },
+        {
+            "chainId": 369,
+            "name": "LIBELOOR from pump.tires",
+            "address": "0xc1cb1bDd29BBeD60594b3dB3E8b3B7971b3fd71A",
+            "symbol": "LIBELOOR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xc1cb1bDd29BBeD60594b3dB3E8b3B7971b3fd71A.png"
+},
+{
+    "chainId": 369,
+    "name": "Bidet from pump.tires",
+    "address": "0x624751db2F3151E3509C7c0d6Ec2D42399a28B0F",
+    "symbol": "Bid",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x624751db2F3151E3509C7c0d6Ec2D42399a28B0F.png"
+}
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
 }
