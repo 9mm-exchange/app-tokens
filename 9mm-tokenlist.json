@@ -3150,6 +3150,13 @@
     "symbol": "Bid",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x624751db2F3151E3509C7c0d6Ec2D42399a28B0F.png"
+},{
+    "chainId": 369,
+    "name": "PepsPub",
+    "address": "0xFE2ABed0834075EB83D61e98932A8645122B7994",
+    "symbol": "PepsPub",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xFE2ABed0834075EB83D61e98932A8645122B7994.png"
 }
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
