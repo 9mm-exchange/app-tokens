@@ -94,6 +94,14 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://tokens.9mm.pro/base/0x60B407479ef0ddF6Cc146ceD609aa07d4296F204.png"
+    },
+    {
+      "name": "9mm on Base",
+      "symbol": "9mm",
+      "address": "0xe290816384416fb1dB9225e176b716346dB9f9fE",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://tokens.9mm.pro/base/0xe290816384416fb1dB9225e176b716346dB9f9fE.png"
     }
   ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
