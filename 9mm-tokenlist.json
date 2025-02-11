@@ -15,6 +15,14 @@
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
       },
+     {
+        "chainId": 369,
+        "name": "PLSCX",
+        "address": "0x3D7eaf3a2406DFaD68be0dA504eCD690B80AAE48",
+        "symbol": "PLSCX",
+        "decimals": 18,
+        "logoURI": "https://tokens.9mm.pro/pulse/0x3D7eaf3a2406DFaD68be0dA504eCD690B80AAE48.png"
+     },
       {
           "chainId": 369,
           "name": "HEX",
