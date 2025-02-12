@@ -3310,6 +3310,14 @@
           "symbol": "HEART",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5CB6D3aF04D6171F83EA9B51F2F22fA989f9509e.png"
+      },
+     {
+          "chainId": 369,
+          "name": "coin_artist",
+          "address": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
+          "symbol": "COIN",
+          "decimals": 18,
+          "logoURI": "https://tokens.9mm.pro/pulse/0x87b008E57F640D94Ee44Fd893F0323AF933F9195.png"
       }
   ],
    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
