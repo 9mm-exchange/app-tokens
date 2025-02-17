@@ -3318,7 +3318,63 @@
           "symbol": "COIN",
           "decimals": 18,
           "logoURI": "https://tokens.9mm.pro/pulse/0x87b008E57F640D94Ee44Fd893F0323AF933F9195.png"
-      }
+      },
+    {
+            "chainId": 369,
+            "name": "Kingdom of Meme Tokens",
+            "address": "0x471250E27388CA90018a9042DC81310F8AAB8D2D",
+            "symbol": "KOMT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x471250E27388CA90018a9042DC81310F8AAB8D2D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The One Meme",
+            "address": "0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A",
+            "symbol": "RING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Eli Porter",
+            "address": "0x6f82e6c4747c616d2e57D306f44EFCc206D49858",
+            "symbol": "ELI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f82e6c4747c616d2e57D306f44EFCc206D49858.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Lazy",
+            "address": "0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17",
+            "symbol": "LZY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PUPPERS",
+            "address": "0x27246B3e508c696Af6C6F3D83286aC6D8242d3bA",
+            "symbol": "PUPPERS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x27246B3e508c696Af6C6F3D83286aC6D8242d3bA.png"
+        },
+        {
+            "chainId": 369,
+            "name": "NPC",
+            "address": "0xa6C897bc61270073f998FbC8d2425f01D3aDEb65",
+            "symbol": "NPC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa6C897bc61270073f998FbC8d2425f01D3aDEb65.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PUPPERS",
+            "address": "0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2",
+            "symbol": "PUPPERS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2.png"
+        }
   ],
    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
 }
