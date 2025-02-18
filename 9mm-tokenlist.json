@@ -249,9 +249,9 @@
       },
       {
           "chainId": 369,
-          "name": "9MM",
+          "name": "9MM on Pulsechain",
           "address": "0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719",
-          "symbol": "9MM",
+          "symbol": "9MM ",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719.png"
       },
