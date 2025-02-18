@@ -3139,7 +3139,7 @@
           "chainId": 369,
           "name": "PulseChain from pump.tires",
           "address": "0x260e5dA7eF6E30e0A647d1aDF47628198DCb0709",
-          "symbol": "PLS",
+          "symbol": "PLS ",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x260e5dA7eF6E30e0A647d1aDF47628198DCb0709.png"
       },
