@@ -97,7 +97,7 @@
     },
     {
       "name": "9mm on Base",
-      "symbol": "9mm",
+      "symbol": "9mm Base",
       "address": "0xe290816384416fb1dB9225e176b716346dB9f9fE",
       "chainId": 8453,
       "decimals": 18,
