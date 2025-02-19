@@ -15,6 +15,14 @@
       "decimals": 18,
       "logoURI": "https://tokens.9mm.pro/base/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
+   {
+          "name": "PUSSY (HOAX)",
+          "symbol": "PUSSY",
+          "address": "0x195f4682237D52292a293f2D33E94d911Bc1F85E",
+          "chainId": 8453,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
+ },     
     {
       "name": "Chia Warped XCH",
       "symbol": "wXCH",
