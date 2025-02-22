@@ -3382,7 +3382,16 @@
         "symbol": "PUPPERS",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2.png"
-      }
+      },
+      {
+        "chainId": 369,
+        "name": "Pulsican Store",
+        "address": "0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04",
+        "symbol": "PLSS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04.png"
+      }  
+        
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
   }
