@@ -7057,6 +7057,14 @@
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xCf6Ca3929b00Ebc7fF504b165ca40C44087CAE47.png",
         "chainId": 8453,
         "decimals": 18
+      },
+      {
+        "address": "0x62D0B7ea8AA059f0154692435050cecedf8D3e99",
+        "name": "Fabienne",
+        "symbol": "FABIENNE",
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x62D0B7ea8AA059f0154692435050cecedf8D3e99.png",
+        "chainId": 8453,
+        "decimals": 18
       } 
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
