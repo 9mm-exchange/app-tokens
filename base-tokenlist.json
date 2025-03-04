@@ -7041,7 +7041,23 @@
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x37D5F71b49715110D96759568ee42A98447A2080.png",
         "chainId": 8453,
         "decimals": 18
-      }
+      },
+      {
+        "address": "0x68f305Cca4D3462Ac8CAf759492Ed9d33E4DFF40",
+        "name": "Chia Warped SPROUT",
+        "symbol": "wSPROUT",
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x68f305Cca4D3462Ac8CAf759492Ed9d33E4DFF40.png",
+        "chainId": 8453,
+        "decimals": 18
+      },
+      {
+        "address": "0xCf6Ca3929b00Ebc7fF504b165ca40C44087CAE47",
+        "name": "Chia Warped LOVE",
+        "symbol": "wLOVE",
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xCf6Ca3929b00Ebc7fF504b165ca40C44087CAE47.png",
+        "chainId": 8453,
+        "decimals": 18
+      } 
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
   }
