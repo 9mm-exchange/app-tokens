@@ -7069,7 +7069,7 @@
             {
         "address": "0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46",
         "name": "HOA From Pulsechain",
-        "symbol": "HOA",
+        "symbol": "HOA From Pulsechain",
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46.png",
         "chainId": 8453,
         "decimals": 18
