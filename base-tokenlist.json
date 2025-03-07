@@ -7065,7 +7065,15 @@
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x62D0B7ea8AA059f0154692435050cecedf8D3e99.png",
         "chainId": 8453,
         "decimals": 18
-      } 
+      },
+            {
+        "address": "0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46",
+        "name": "HOA From Pulsechain",
+        "symbol": "HOA",
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46.png",
+        "chainId": 8453,
+        "decimals": 18
+      }   
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
   }
