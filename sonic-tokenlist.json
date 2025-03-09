@@ -1220,6 +1220,14 @@
       "chainId": 146,
       "address": "0xb3804bf38bd170ef65b4de8536d19a8e3600c0a9",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xb3804bf38bd170ef65b4de8536d19a8e3600c0a9.png"
+    },
+    {
+      "name": "Chao Island",
+      "symbol": "CHAO",
+      "decimals": 18,
+      "chainId": 146,
+      "address": "0x0bD4E5d075343F10fa5D60Ca607217b4A06A036c",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x0bD4E5d075343F10fa5D60Ca607217b4A06A036c.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
