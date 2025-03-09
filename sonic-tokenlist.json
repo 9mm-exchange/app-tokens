@@ -1228,7 +1228,15 @@
       "chainId": 146,
       "address": "0x0bD4E5d075343F10fa5D60Ca607217b4A06A036c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x0bD4E5d075343F10fa5D60Ca607217b4A06A036c.png"
-    }
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 146,
+      "address": "0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df.png"
+}
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
 }
