@@ -904,14 +904,6 @@
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xf30224eb7104aca47235beb3362e331ece70616a.png"
     },
     {
-      "name": "sDOG",
-      "symbol": "sDOG",
-      "decimals": 18,
-      "chainId": 146,
-      "address": "0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6.png"
-    },
-    {
       "name": "FutureStarter",
       "symbol": "FS",
       "decimals": 18,
@@ -990,14 +982,6 @@
       "chainId": 146,
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
-    },
-    {
-      "name": "Sonic BTC",
-      "symbol": "scBTC",
-      "decimals": 8,
-      "chainId": 146,
-      "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd.png"
     },
     {
       "name": "BurnX",
