@@ -80,14 +80,6 @@
       "chainId": 146
     },
     {
-      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-      "name": "HeyAnon",
-      "symbol": "Anon",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png",
-      "chainId": 146
-    },
-    {
       "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
       "name": "Tin Hat Cat",
       "symbol": "THC",
@@ -560,14 +552,6 @@
       "chainId": 146
     },
     {
-      "address": "0xF97d438BC03aD0F75B83ce5714c9619880B305bc",
-      "name": "FIERY",
-      "symbol": "FIERY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xF97d438BC03aD0F75B83ce5714c9619880B305bc.png",
-      "chainId": 146
-    },
-    {
       "address": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
       "name": "Staked Sonic ETH",
       "symbol": "stkscETH",
@@ -937,27 +921,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-      "decimals": 18,
-      "name": "HeyAnon",
-      "symbol": "Anon",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
-    },
-    {
-      "chainId": 146,
       "address": "0x851fee47c6588506277c439a7526ae58cd1d15e5",
       "decimals": 18,
       "name": "Valhalla DAO",
       "symbol": "ODIN",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x851fee47c6588506277c439a7526ae58cd1d15e5.png"
-    },
-    {
-      "chainId": 146,
-      "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
-      "decimals": 18,
-      "name": "GOGGLES",
-      "symbol": "GOGLZ",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564.png"
     },
     {
       "chainId": 146,
@@ -993,14 +961,6 @@
     },
     {
       "chainId": 146,
-      "address": "0x8ad39144B37741573F85aa03D6c3E817A0054161",
-      "decimals": 18,
-      "name": "Fate Adventure",
-      "symbol": "FA",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x8ad39144B37741573F85aa03D6c3E817A0054161.png"
-    },
-    {
-      "chainId": 146,
       "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
       "decimals": 18,
       "name": "toona",
@@ -1027,7 +987,6 @@
       "name": "Moon Bay",
       "symbol": "MOON",
       "decimals": 18,
-      "id": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
       "chainId": 146,
       "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299.png"
@@ -1036,7 +995,6 @@
       "name": "Wrapped Drip",
       "symbol": "WDRIP",
       "decimals": 18,
-      "id": "0xf30224eb7104aca47235beb3362e331ece70616a",
       "chainId": 146,
       "address": "0xf30224eb7104aca47235beb3362e331ece70616a",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xf30224eb7104aca47235beb3362e331ece70616a.png"
@@ -1045,7 +1003,6 @@
       "name": "sDOG",
       "symbol": "sDOG",
       "decimals": 18,
-      "id": "0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6",
       "chainId": 146,
       "address": "0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6.png"
@@ -1054,34 +1011,14 @@
       "name": "FutureStarter",
       "symbol": "FS",
       "decimals": 18,
-      "id": "0xbc0d0650412ef353d672c0bbd12efff90591b251",
       "chainId": 146,
       "address": "0xbc0d0650412ef353d672c0bbd12efff90591b251",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xbc0d0650412ef353d672c0bbd12efff90591b251.png"
     },
     {
-      "name": "GOGGLES",
-      "symbol": "GOGLZ",
-      "decimals": 18,
-      "id": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
-      "chainId": 146,
-      "address": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564.png"
-    },
-    {
-      "name": "SonicEco",
-      "symbol": "ECO",
-      "decimals": 18,
-      "id": "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7",
-      "chainId": 146,
-      "address": "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7.png"
-    },
-    {
       "name": "Beets",
       "symbol": "BEETS",
       "decimals": 18,
-      "id": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
       "chainId": 146,
       "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x2d0e0814e62d80056181f5cd932274405966e4f0.png"
@@ -1090,7 +1027,6 @@
       "name": "HEDGY the hedgehog",
       "symbol": "HEDGY",
       "decimals": 18,
-      "id": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
       "chainId": 146,
       "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x6fb9897896fe5d05025eb43306675727887d0b7c.png"
@@ -1099,7 +1035,6 @@
       "name": "Aurum Sonic USDC",
       "symbol": "auUSDC",
       "decimals": 6,
-      "id": "0xd6a69ebfa44f78cee454a2df2c77751a42f8f38c",
       "chainId": 146,
       "address": "0xd6a69ebfa44f78cee454a2df2c77751a42f8f38c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xd6a69ebfa44f78cee454a2df2c77751a42f8f38c.png"
@@ -1108,7 +1043,6 @@
       "name": "PHANIC",
       "symbol": "PHANIC",
       "decimals": 18,
-      "id": "0xb4f58eeabe36711d72e99f35cbf36210561522be",
       "chainId": 146,
       "address": "0xb4f58eeabe36711d72e99f35cbf36210561522be",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xb4f58eeabe36711d72e99f35cbf36210561522be.png"
@@ -1117,7 +1051,6 @@
       "name": "FIERY",
       "symbol": "FIERY",
       "decimals": 18,
-      "id": "0xf97d438bc03ad0f75b83ce5714c9619880b305bc",
       "chainId": 146,
       "address": "0xf97d438bc03ad0f75b83ce5714c9619880b305bc",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png"
@@ -1126,7 +1059,6 @@
       "name": "HeyAnon",
       "symbol": "Anon",
       "decimals": 18,
-      "id": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "chainId": 146,
       "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c.png"
@@ -1135,25 +1067,14 @@
       "name": "Origin Sonic",
       "symbol": "OS",
       "decimals": 18,
-      "id": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
       "chainId": 146,
       "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xb1e25689d55734fd3fffc939c4c3eb52dff8a794.png"
     },
     {
-      "name": "BLACKHOLE",
-      "symbol": "BOL",
-      "decimals": 18,
-      "id": "0x38628cb4cc74cbdfb6ddd877b17c1f60fcae7c2c",
-      "chainId": 146,
-      "address": "0x38628cb4cc74cbdfb6ddd877b17c1f60fcae7c2c",
-      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x38628cb4cc74cbdfb6ddd877b17c1f60fcae7c2c.png"
-    },
-    {
       "name": "FUCKMULTI",
       "symbol": "fMULTI",
       "decimals": 18,
-      "id": "0x39838b880ba948c49aab7253f61ce1e00c30c014",
       "chainId": 146,
       "address": "0x39838b880ba948c49aab7253f61ce1e00c30c014",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x39838b880ba948c49aab7253f61ce1e00c30c014.png"
@@ -1162,7 +1083,6 @@
       "name": "Millennium Club",
       "symbol": "MCLB",
       "decimals": 18,
-      "id": "0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579",
       "chainId": 146,
       "address": "0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579.png"
@@ -1171,7 +1091,6 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "id": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "chainId": 146,
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
@@ -1180,7 +1099,6 @@
       "name": "Sonic BTC",
       "symbol": "scBTC",
       "decimals": 8,
-      "id": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
       "chainId": 146,
       "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd.png"
@@ -1189,7 +1107,6 @@
       "name": "Sonic IndeX",
       "symbol": "fSIX",
       "decimals": 18,
-      "id": "0x94b999e05d1361a802ad6690c1b1ae3426a4e1a6",
       "chainId": 146,
       "address": "0x94b999e05d1361a802ad6690c1b1ae3426a4e1a6",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x94b999e05d1361a802ad6690c1b1ae3426a4e1a6.png"
@@ -1198,7 +1115,6 @@
       "name": "Eggs",
       "symbol": "EGGS",
       "decimals": 18,
-      "id": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
       "chainId": 146,
       "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png"
@@ -1207,7 +1123,6 @@
       "name": "BurnX",
       "symbol": "BRNx",
       "decimals": 18,
-      "id": "0x4e74abaca538696857362c8e4d785a4836388c60",
       "chainId": 146,
       "address": "0x4e74abaca538696857362c8e4d785a4836388c60",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x4e74abaca538696857362c8e4d785a4836388c60.png"
@@ -1216,7 +1131,6 @@
       "name": "HOG",
       "symbol": "HOG",
       "decimals": 18,
-      "id": "0xb3804bf38bd170ef65b4de8536d19a8e3600c0a9",
       "chainId": 146,
       "address": "0xb3804bf38bd170ef65b4de8536d19a8e3600c0a9",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0xb3804bf38bd170ef65b4de8536d19a8e3600c0a9.png"
