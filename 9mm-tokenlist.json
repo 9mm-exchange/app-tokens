@@ -3398,7 +3398,127 @@
         "symbol": "HIGHER",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x09570203d3b28671b8Ee9084648fD476C3215a31.png"
-    }   
+    },
+    {
+            "chainId": 369,
+            "name": "DumbMoney",
+            "address": "0xe65112d2f120c8cb23ADC80D8E8122c0c8b7fF8D",
+            "symbol": "DUMB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe65112d2f120c8cb23ADC80D8E8122c0c8b7fF8D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dumb Amplifier",
+            "address": "0x8357aA9070dc7d8d154Da74561CEc58cA30c41C3",
+            "symbol": "DAMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8357aA9070dc7d8d154Da74561CEc58cA30c41C3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Smoki",
+            "address": "0x708DACAb783DeCbB4994A9Db612Da8C2100Ab186",
+            "symbol": "SMOKI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x708DACAb783DeCbB4994A9Db612Da8C2100Ab186.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Audio Ecstasy Inc",
+            "address": "0x3Fa77830bFaF10e27bd1211Ff54E2D0Fd4869cA4",
+            "symbol": "XTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3Fa77830bFaF10e27bd1211Ff54E2D0Fd4869cA4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Richards first Car",
+            "address": "0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4",
+            "symbol": "BONNIE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "REMEMBER",
+            "address": "0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12",
+            "symbol": "REMEMBER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TrumpOfficial",
+            "address": "0xf2DD4FE4bE7B8C0655d0962A4285150Ff09769EA",
+            "symbol": "Trump",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf2DD4FE4bE7B8C0655d0962A4285150Ff09769EA.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Power to Profit",
+            "address": "0xA831a35f48664fE357c584540fb79e172157CBF3",
+            "symbol": "POWER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA831a35f48664fE357c584540fb79e172157CBF3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Fetch",
+            "address": "0xe39B70c9978E4232140d148Ad3C0b08f4A42220D",
+            "symbol": "FETCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe39B70c9978E4232140d148Ad3C0b08f4A42220D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "INC Dollar",
+            "address": "0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50",
+            "symbol": "INCD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50.png"
+        },
+        {
+            "chainId": 369,
+            "name": "INC Printer",
+            "address": "0x6C203A555824ec90a215f37916cf8Db58EBe2fA3",
+            "symbol": "PRINT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6C203A555824ec90a215f37916cf8Db58EBe2fA3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GAS Money",
+            "address": "0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106",
+            "symbol": "GAS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pDONG",
+            "address": "0x47C7Ae1514Ee90c43e2bD50CAa8DA63285ae146d",
+            "symbol": "pDONG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47C7Ae1514Ee90c43e2bD50CAa8DA63285ae146d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pdied",
+            "address": "0xa8f501432348c5DD042347e22FBb0F0EB1528Cab",
+            "symbol": "pdied",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa8f501432348c5DD042347e22FBb0F0EB1528Cab.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Surgicaltrainers.com",
+            "address": "0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52",
+            "symbol": "STM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52.png"
+        }    
         
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
