@@ -1015,6 +1015,46 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df.png"
     }
+    {
+    "name": "DumbAss",
+    "symbol": "$DUMB",
+    "address": "0xF03fA1C72aE83e22297321f5D34aE47825Af8BEe",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0xF03fA1C72aE83e22297321f5D34aE47825Af8BEe.png"
+},
+{
+    "name": "PUSSY",
+    "symbol": "PUSSY",
+    "address": "0x195f4682237D52292a293f2D33E94d911Bc1F85E",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0x195f4682237D52292a293f2D33E94d911Bc1F85E.png"
+},
+{
+    "name": "Sonic.exe",
+    "symbol": "SEXE",
+    "address": "0xB466012782ec33c983Ad73D6f34832B04D801519",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0xB466012782ec33c983Ad73D6f34832B04D801519.png"
+},
+{
+    "name": "KEWL EXCHANGE",
+    "symbol": "KWL",
+    "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c.svg"
+},
+{
+    "name": "KEWL EXCHANGE",
+    "symbol": "KWL",
+    "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c.svg"
+},
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
 }
