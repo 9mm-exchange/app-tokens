@@ -2508,7 +2508,7 @@
         "name": "Bullseye Bot Token",
         "address": "0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27",
         "symbol": "BLSEYE",
-        "decimals": 18,
+        "decimals": 10,
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27.png"
       },
       {
