@@ -7107,7 +7107,15 @@
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x050c6C2555c2d54AbA01420FBc02fF0F1d10E8dF.png",
     "chainId": 8453,
     "decimals": 18
-}  
+},
+{
+    "address": "0x0cf6739649503feE85F908a126B974DcEC10A26a",
+    "name": "WEB WAR 4",
+    "symbol": "WAR4",
+    "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x0cf6739649503feE85F908a126B974DcEC10A26a.png",
+    "chainId": 8453,
+    "decimals": 18
+}         
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
   }
