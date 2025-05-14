@@ -1,0 +1,19 @@
+{
+  "name": "9mm default Tokens List",
+  "timestamp": "2025-03-24T02:20:19.436Z",
+  "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 2
+  },
+  "tokens":[
+    {
+      "name": "Wrapped TPLS",
+      "symbol": "TPLS",
+      "address": "0xed22410bF8e1F0Fc7b556d556C9428f359FC37Af",
+      "chainId": 94128,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/optipulse/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38.png"
+    }
+  ]
+}
