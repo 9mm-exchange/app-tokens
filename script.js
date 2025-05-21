@@ -3,7 +3,7 @@ const axios = require('axios');
 const path = require('path');
 
 // Read JSON data from file
-const rawData = fs.readFileSync('sonic-tokenlist.json');
+const rawData = fs.readFileSync('eth-tokenlist.json');
 const parsedData = JSON.parse(rawData);
 
 // Ensure the structure has a 'tokens' array
@@ -13,7 +13,7 @@ if (!parsedData.tokens || !Array.isArray(parsedData.tokens)) {
 }
 
 // Directory to save logos
-const logoDir = path.join(__dirname, 'sonic-logos');
+const logoDir = path.join(__dirname, 'eth');
 if (!fs.existsSync(logoDir)) {
   fs.mkdirSync(logoDir, { recursive: true });
 }
@@ -41,7 +41,7 @@ const downloadLogos = async () => {
   // Update logoURI to the new path
   const updatedTokens = parsedData.tokens.map(token => ({
     ...token,
-    logoURI: `https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/${token.address}.png`
+    logoURI: `https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/eth/${token.address}.png`
   }));
 
   // Save the updated JSON back to a file
