@@ -7123,7 +7123,15 @@
         "chainId": 8453,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x05AefaFfF978EA4F9E6ff9FA3Bc2465B90598549.png"
-}        
+}  
+,{
+        "name": "CChia Warped JOCK",
+        "symbol": "wJOCK",
+        "address": "0x20CC08b1135D7Ae892D6b5C799f0aBb51D822899",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x20CC08b1135D7Ae892D6b5C799f0aBb51D822899.png"
+}         
     ],
     "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
   }
