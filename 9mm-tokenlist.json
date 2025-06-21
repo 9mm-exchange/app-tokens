@@ -17,6 +17,14 @@
       },
       {
         "chainId": 369,
+        "name": "YEET",
+        "address": "0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB",
+        "symbol": "YEET",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB.png"
+      },
+      {
+        "chainId": 369,
         "name": "PLS",
         "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "symbol": "PLS",
