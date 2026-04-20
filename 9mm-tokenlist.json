@@ -3550,7 +3550,40 @@
         "symbol": "PRVX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xF6f8Db0aBa00007681F8fAF16A0FDa1c9B030b11.png"
-     }
+        },
+        {
+        "chainId": 369, // Should always be 369
+        "address": "0x2fA670F58092Fb8A2F4B83f292506B88eC34EC45",
+        "name": "ナナナ The M.U.L.E. Crystite",
+        "symbol": "Crystite",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HEX-developement/token-pics/57772a50b1b75495ae36db867e7cfb68c704601a/0x2fA670F58092Fb8A2F4B83f292506B88eC34EC45.png",
+        },
+        {
+        "chainId": 369, // Should always be 369
+        "address": "0xaa46FA6cf4F81B087EC3A968946fb2E705c6B89E",
+        "name": "ナナナ The M.U.L.E.",
+        "symbol": "MULE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HEX-developement/token-pics/6f08c0cbe05a7a6f7c8683e208bd16a36c5528e2/0xaa46FA6cf4F81B087EC3A968946fb2E705c6B89E.png",
+        },
+        {
+        "chainId": 369, // Should always be 369
+        "address": "0xf1f402518b025194eEb14EC00124160FD0Db7A0C",
+        "name": "ナナナ BananaX Republic",
+        "symbol": "NananaX",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HEX-developement/token-pics/79e0b2e3a8560f2fe7d0a9c858a93542f77897dd/0xf1f402518b025194eEb14EC00124160FD0Db7A0C.png",
+        },
+        {
+        "chainId": 369, // Should always be 369
+        "address": "0x1B43c527564eC6c2C0e0f5A6C777895294f44BbD",
+        "name": "ナナナ The M.U.L.E. Smithore",
+        "symbol": "Smithore",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HEX-developement/token-pics/57772a50b1b75495ae36db867e7cfb68c704601a/0x1B43c527564eC6c2C0e0f5A6C777895294f44BbD.png",
+        }
+   
         
         
     ],
