@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-04-29T20:42:30.995Z",
+  "timestamp": "2026-04-29T20:44:27.089Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 5
+    "patch": 6
   },
   "tokens": [
     {
@@ -4374,6 +4374,22 @@
       "symbol": "PTIGER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xC2ACde27428d292C4E8e5A4A38148d6b7A2215f5.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
+      "name": "XGAME.IO",
+      "symbol": "XGAME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xFFFFFfeed1f3E9c0Fb623b01F2024c4a9555FFFF",
+      "name": "Moon",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xFFFFFfeed1f3E9c0Fb623b01F2024c4a9555FFFF.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
