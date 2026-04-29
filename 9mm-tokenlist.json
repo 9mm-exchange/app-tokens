@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-04-29T20:44:27.089Z",
+  "timestamp": "2026-04-29T20:46:28.660Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 6
+    "patch": 7
   },
   "tokens": [
     {
@@ -4390,6 +4390,30 @@
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xFFFFFfeed1f3E9c0Fb623b01F2024c4a9555FFFF.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x4e357E4E972FA0d4e2Cb2A363c8226c383c43C75",
+      "name": "Richard Heart PEPE",
+      "symbol": "RHPEPE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4e357E4E972FA0d4e2Cb2A363c8226c383c43C75.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xB7d4eB5fDfE3d4d3B5C16a44A49948c6EC77c6F1",
+      "name": "Morbius",
+      "symbol": "Morbius",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xB7d4eB5fDfE3d4d3B5C16a44A49948c6EC77c6F1.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xae8b25B28D3eF3ADe67aD40Fd96af45faad3a271",
+      "name": "Fsjal ",
+      "symbol": "Fsjal ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xae8b25B28D3eF3ADe67aD40Fd96af45faad3a271.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
