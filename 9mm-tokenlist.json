@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-04-29T20:04:09.000Z",
+  "timestamp": "2026-04-29T20:42:30.995Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -4278,6 +4278,102 @@
       "symbol": "Smithore",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1B43c527564eC6c2C0e0f5A6C777895294f44BbD.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+      "name": "Reserve Teh",
+      "symbol": "FED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x69e23263927Ae53E5FF3A898d082a83B7D6fB438",
+      "name": "SCADA",
+      "symbol": "SCADA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x69e23263927Ae53E5FF3A898d082a83B7D6fB438.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf0f8d48979f3F9a602185D9a07E2976D67a41F13",
+      "name": "Little Guy",
+      "symbol": "LG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xf0f8d48979f3F9a602185D9a07E2976D67a41F13.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1C9c8528f2a1672e0E7eaDA21167a596D126B568",
+      "name": "MoonX",
+      "symbol": "MOONX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x8CDaf3d630Da9E1450832924D5701CC0500E9cfC",
+      "name": "Green Wick",
+      "symbol": "WICK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8CDaf3d630Da9E1450832924D5701CC0500E9cfC.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x5383526451e38D504243ACC6Ba5601B560D7B15A",
+      "name": "LeastWanted",
+      "symbol": "LEAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5383526451e38D504243ACC6Ba5601B560D7B15A.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x4dD35F9804870d5Cc1034feAd594b061924f1e7e",
+      "name": "Hex Kangaroo",
+      "symbol": "HEXROO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4dD35F9804870d5Cc1034feAd594b061924f1e7e.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xc2472877F596D5052883B93777325dD7F7d11c96",
+      "name": "TOP HAT",
+      "symbol": "TOPHAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xc2472877F596D5052883B93777325dD7F7d11c96.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf6703DBff070F231eEd966D33B1B6D7eF5207d26",
+      "name": "ZeroTrust",
+      "symbol": "ZERØ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xf6703DBff070F231eEd966D33B1B6D7eF5207d26.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x9B334c49821d36D435e684e7CB9b564b328126e5",
+      "name": "OpportunityOfFinance",
+      "symbol": "OOF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x9B334c49821d36D435e684e7CB9b564b328126e5.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf656637cEF4ad2Eac3c405Cc52c6b9776BFaF575",
+      "name": "Pittbull",
+      "symbol": "Pittbull",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xf656637cEF4ad2Eac3c405Cc52c6b9776BFaF575.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xC2ACde27428d292C4E8e5A4A38148d6b7A2215f5",
+      "name": "PulseChain Tiger",
+      "symbol": "PTIGER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xC2ACde27428d292C4E8e5A4A38148d6b7A2215f5.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
