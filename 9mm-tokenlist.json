@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-05-12T13:32:01.689Z",
+  "timestamp": "2026-05-12T15:04:42.355Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 9
+    "patch": 10
   },
   "tokens": [
     {
@@ -4446,6 +4446,14 @@
       "symbol": "OX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xC6022378663264DD42345C56DA7bc37368caCdC0.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x63E46D88c7cCb4F4E15Fe8570076Cd9899f1684f",
+      "name": "BUSTED",
+      "symbol": "BSTD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x63E46D88c7cCb4F4E15Fe8570076Cd9899f1684f.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
