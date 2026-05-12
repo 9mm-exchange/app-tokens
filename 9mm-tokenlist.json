@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-04-29T20:46:28.660Z",
+  "timestamp": "2026-05-12T07:39:35.437Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 7
+    "patch": 8
   },
   "tokens": [
     {
@@ -4414,6 +4414,30 @@
       "symbol": "Fsjal ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xae8b25B28D3eF3ADe67aD40Fd96af45faad3a271.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xd82236900b4A45A4d404e999259Cd874e2507141",
+      "name": "CHARMANDER",
+      "symbol": "CHARMANDER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xd82236900b4A45A4d404e999259Cd874e2507141.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf49A6487D79aeDF310980A4c5e1594D90FE012b7",
+      "name": "CHAM",
+      "symbol": "Chameleon",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xf49A6487D79aeDF310980A4c5e1594D90FE012b7.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x74d6bEe7AF79c616f047E695E4169a778058A5a2",
+      "name": "Charizard (1st Edition)",
+      "symbol": "CHARIZARD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x74d6bEe7AF79c616f047E695E4169a778058A5a2.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
