@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-05-12T15:04:42.355Z",
+  "timestamp": "2026-05-12T15:09:21.385014Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 10
+    "patch": 11
   },
   "tokens": [
     {
@@ -4454,6 +4454,14 @@
       "symbol": "BSTD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x63E46D88c7cCb4F4E15Fe8570076Cd9899f1684f.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xe525c73D139d7fa2DfA27eb5a6324f3A7c804164",
+      "name": "PulpCoin",
+      "symbol": "PULP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xe525c73D139d7fa2DfA27eb5a6324f3A7c804164.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
