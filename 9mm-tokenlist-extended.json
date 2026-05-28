@@ -1,10 +1,10 @@
 {
   "name": "9mm Extended Tokens List",
-  "timestamp": "2026-05-12T16:02:37.513793Z",
+  "timestamp": "2026-05-28T09:50:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [
     "pulsechain",
@@ -16,14 +16,6 @@
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png",
   "description": "Aggregated long-tail token list for PulseChain. Sourced from gib.show 2+ aggregator-source filter (excludes single-source memecoin spam). Logos reference original gib.show URLs (not self-hosted). For the curated default list see 9mm-tokenlist.json.",
   "tokens": [
-    {
-      "chainId": 369,
-      "address": "0xf33c0bb40d1bbf6eafaaea2adfb7d2d3ebc1e49c",
-      "name": "     ",
-      "symbol": "    ",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/64e57cce5b70c10721638401c30d148835bc0b16789b17b2e414a23d70e52a93.webp"
-    },
     {
       "chainId": 369,
       "address": "0x843bd34a9ec8bb0244449fceaf20d3555cbd2cee",
@@ -147,7 +139,7 @@
     {
       "chainId": 369,
       "address": "0xcbd3b8bbe0ecd05545b3584af0be88f24a7cb6b7",
-      "name": " Heart Tribute ",
+      "name": "Heart Tribute",
       "symbol": "$HRT",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/42dea5bd3bc1c24038543211f5f17d24656d82d0590175809fd009b533aa4708.webp"
@@ -235,8 +227,8 @@
     {
       "chainId": 369,
       "address": "0x2b2ed7cf7969e7529d5ed0aeeb639bedb9245e08",
-      "name": "PEGGY GUY ",
-      "symbol": "$PEGGY ",
+      "name": "PEGGY GUY",
+      "symbol": "$PEGGY",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/f30cd6aa86656f3897103f64b57af2fbefb7575fd27921c6db2895ff62aff6d0.webp"
     },
@@ -331,8 +323,8 @@
     {
       "chainId": 369,
       "address": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
-      "name": "UnStable Dick Coin ",
-      "symbol": "$USDC ",
+      "name": "UnStable Dick Coin",
+      "symbol": "$USDC",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/3dada1a0e5fad6899fca9f4b4aab7a80ffa449f79fa5e6febc7af84d7b7d7f1c.webp"
     },
@@ -1611,7 +1603,7 @@
     {
       "chainId": 369,
       "address": "0x711d183b1367b4707d05f43a7375ddb5e5b5b5cc",
-      "name": "Barron ",
+      "name": "Barron",
       "symbol": "BARRON",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/dc3ebc007d8d332fb5adaefcbb7a4910ea40691873fe61a778f0e8cfddeb554b.webp"
@@ -2051,7 +2043,7 @@
     {
       "chainId": 369,
       "address": "0xe82b2782c1e2c8762481a748f06a113ba91657d3",
-      "name": "what's the ticker ",
+      "name": "what's the ticker",
       "symbol": "BILLY",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/f850470d9f605b2886ba41fa63dee61b941055f3ca30ce2c22f72cdd8460decf.webp"
@@ -2444,7 +2436,7 @@
       "chainId": 369,
       "address": "0x9c7d178e332c3589bf0b5cc1cf05cc340d117ab7",
       "name": "Book Of Pulse",
-      "symbol": "BOOP ",
+      "symbol": "BOOP",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/c9b64c5cf7030df1d1d41749d2e8c285b03bb404d7d4450b27432571d9f3a921.webp"
     },
@@ -2891,7 +2883,7 @@
     {
       "chainId": 369,
       "address": "0x00069ec58986aa78bbef3e0eda432d598c9264ea",
-      "name": "The Cabal ",
+      "name": "The Cabal",
       "symbol": "CABAL",
       "decimals": 18,
       "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmcePt5MtoLS9mFBBsZpou723t2hw2y9Et4WWWbWmegq4i"
@@ -3674,14 +3666,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x1c019f0ee7db52b6dfccbf8c588c972e0beda296",
-      "name": "Cry Like A Bitch",
-      "symbol": "CRY (To $10)",
-      "decimals": 18,
-      "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmRJJq6harokzVG94QF9oyWbP7vkrxAW1cCMYTaDg5HF1s"
-    },
-    {
-      "chainId": 369,
       "address": "0xe2b1cef3eaacbb0e35a367adb4a6d3993bdd3c10",
       "name": "CryFagging",
       "symbol": "CryFagg",
@@ -4004,7 +3988,7 @@
       "chainId": 369,
       "address": "0xf40a744b60e15febfa63189216212f9a35f5a420",
       "name": "Dark Horse",
-      "symbol": "DARK ",
+      "symbol": "DARK",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/fd9b2a42dcbb53b68c0363567eb397c42b052a65820129f3080a0e8fe7a62bbd.webp"
     },
@@ -6195,8 +6179,8 @@
     {
       "chainId": 369,
       "address": "0xae8b25b28d3ef3ade67ad40fd96af45faad3a271",
-      "name": "Fsjal ",
-      "symbol": "Fsjal ",
+      "name": "Fsjal",
+      "symbol": "Fsjal",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/c36335e4d91908761ccdd5a96ba07d416ee81be347809936f787d47c68060946.png"
     },
@@ -6247,14 +6231,6 @@
       "symbol": "FTVC",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/39fb1df39bc279d4f0a1391afb3804d3e6b42b784aca0868907ed641830fad2d.webp"
-    },
-    {
-      "chainId": 369,
-      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-      "name": "FTT",
-      "symbol": "FTX Token",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/5d98701c0feeaf13fd1c19d7c6e06b12efd1fb1ffc03881a5fabfd39a4443822.png"
     },
     {
       "chainId": 369,
@@ -6371,7 +6347,7 @@
     {
       "chainId": 369,
       "address": "0x73cbb4afda3c554dda7f31bc36538abfe2f35b68",
-      "name": "HEX DOG ",
+      "name": "HEX DOG",
       "symbol": "GAINZ",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/c3fd763a31451b9b80090eb431a17ba0c203ab596d968290d1b9bf028bf01e1d.webp"
@@ -6778,14 +6754,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x7ba167a2365d289ce07ebba3f3258c62c24495fc",
-      "name": "God Candle",
-      "symbol": "GOD ❤️",
-      "decimals": 18,
-      "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmNToxpqynyASHnM4BfmDjxH81xB4sMWUXKd9TQch4eZ8t"
-    },
-    {
-      "chainId": 369,
       "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
       "name": "Gods Unchained",
       "symbol": "GODS",
@@ -6844,7 +6812,7 @@
       "chainId": 369,
       "address": "0xf2dbf3c1935de83edb678589e830eb0cacae3c47",
       "name": "Gonzo Trucker Last Ride",
-      "symbol": "Gonzo ",
+      "symbol": "Gonzo",
       "decimals": 18,
       "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmWw6SoCn2AfPBKisfvyEnGLxATNx13FdqPGwSWs3i7vNK"
     },
@@ -8075,7 +8043,7 @@
     {
       "chainId": 369,
       "address": "0x4589c9772fae741b3148af488299d7a3b5effccd",
-      "name": "Incentive ",
+      "name": "Incentive",
       "symbol": "INC",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/e96774e9097b983e5cea6f5758f96fea39d90d7c5873dfaf49ae9a19982641e5.webp"
@@ -10482,14 +10450,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x9d031b9f7b679c3095ead4a7bd715603a2a9d841",
-      "name": "MR PERVE",
-      "symbol": "MR PERVE",
-      "decimals": 18,
-      "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmVj9xszwavC9UrGoz8osQASLqBZNGZ8DssseYYAqurgC1"
-    },
-    {
-      "chainId": 369,
       "address": "0xed3181f47ac9fb210cdddc13c49804bc46cade7b",
       "name": "Marshall Rogan Inu from Ethereum",
       "symbol": "MRI",
@@ -10515,8 +10475,8 @@
     {
       "chainId": 369,
       "address": "0x072e69b7ba8ff918b741c306c5fa93033d0e8f4e",
-      "name": "MrProve ",
-      "symbol": "MrProve ",
+      "name": "MrProve",
+      "symbol": "MrProve",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/814229a6c5ae311ac1035c48bc2acd256142536609bd36dbb7490c8960ffd75b.png"
     },
@@ -10899,7 +10859,7 @@
     {
       "chainId": 369,
       "address": "0xaeac0a213fa0e43eaa07131e23fb50db78f11c75",
-      "name": "NOKIA ",
+      "name": "NOKIA",
       "symbol": "NOK",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/80b9a21223350c8a3697f846234133e3099c7ce55554737e6aca97ede0c3e112.webp"
@@ -11178,14 +11138,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x32c5fdd3ff3003b9c2b256c3268acc023c9c92c9",
-      "name": "ONLY UP",
-      "symbol": "Only Up",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/5ce688852f41ca177eb079a46c36c9e91221e2811a8eaead07580f371cfae522.webp"
-    },
-    {
-      "chainId": 369,
       "address": "0x9b334c49821d36d435e684e7cb9b564b328126e5",
       "name": "OpportunityOfFinance",
       "symbol": "OOF",
@@ -11275,7 +11227,7 @@
     {
       "chainId": 369,
       "address": "0xbfc81e2956683957c536ed9cca20be8822a41139",
-      "name": "Pulse Otter ",
+      "name": "Pulse Otter",
       "symbol": "OTTER",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/5d0e8d672c668d07960b4d21178c57e644d6ec79e6f3dd95033949fe65a3d7fe.jpg"
@@ -11299,7 +11251,7 @@
     {
       "chainId": 369,
       "address": "0x32241f4ec021a759bad1087bd72bb26d6fd7fc83",
-      "name": "x402 Pulse Protocol ",
+      "name": "x402 Pulse Protocol",
       "symbol": "p402",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/650e8f8d7d072d52cb81f8b07c09dc3f6a421e3ffc7b7d62f74a43948e5c0505.jpg"
@@ -11907,7 +11859,7 @@
     {
       "chainId": 369,
       "address": "0x45794f23a8e8fa4aba05c60eab9d0565b1d4845e",
-      "name": "Pulse Future ",
+      "name": "Pulse Future",
       "symbol": "PF",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/1506cfe1beab2267dfeb7f45770c07555f660e7b3b89a2210434d97cb8b65675.webp"
@@ -12119,14 +12071,6 @@
       "symbol": "PIKA",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/13efb1ec9675cc5c27242944267d2bdb35a5a6c86609cb6aaeb68616b7d10dff.webp"
-    },
-    {
-      "chainId": 369,
-      "address": "0xa68ce4e4737611240817f3a818e718c3b7cbe9f7",
-      "name": "PIKA",
-      "symbol": "PIKA BEAR⚡",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/661587be3677a004fc01ca71bf8789e3174da77d9b0157c4dcea0d3e804c5754.webp"
     },
     {
       "chainId": 369,
@@ -13131,7 +13075,7 @@
     {
       "chainId": 369,
       "address": "0x188ba9c7442327b460d17aaa899ae3ac1f70ba4b",
-      "name": "pSui ",
+      "name": "pSui",
       "symbol": "pSui",
       "decimals": 18,
       "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmWmcssQLuN91kXXsHedzzcmhHjw9emSwtBUmqRmxjayKu"
@@ -13156,7 +13100,7 @@
       "chainId": 369,
       "address": "0xfb6aa01800a2c8563f564e175ab4d20a139d41d3",
       "name": "Pcocks Intern",
-      "symbol": "pTERN ",
+      "symbol": "pTERN",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/f178460ba515ea02c5fc2d949e1e867719c658c9ed6e236803ad6a1aa77804ef.webp"
     },
@@ -13579,7 +13523,7 @@
     {
       "chainId": 369,
       "address": "0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f",
-      "name": " PointPay Crypto Banking Token V2 ",
+      "name": "PointPay Crypto Banking Token V2",
       "symbol": "PXP",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/d54c7cc1e7eb99774ba0ddc79b35a1a302773225ae852fb9f7eaecbce0f1c67f.png"
@@ -13911,14 +13855,6 @@
       "symbol": "REBEL",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/474183301e8e67de037639d85c22ff7a96c7372e52e261afa87c79580464eade.webp"
-    },
-    {
-      "chainId": 369,
-      "address": "0x0b79e3389c5cc7f2729c122cae5ed55dfe90bfd7",
-      "name": "REDBULL COCK",
-      "symbol": "REDBULL COCK",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/0390ab1432d735852e57996820d0a343b69e3a1843c2dfdc0a45e140027065fb.jpg"
     },
     {
       "chainId": 369,
@@ -14491,7 +14427,7 @@
     {
       "chainId": 369,
       "address": "0x8b615cb592f7c2addafbfaf4a3fef5e2323b88d7",
-      "name": "Size Matters ",
+      "name": "Size Matters",
       "symbol": "RULER",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/52c8b6855a68ff87f1071772bd56a60e1a175baaa9014e7b80a5c304067e8055.webp"
@@ -14559,14 +14495,6 @@
       "symbol": "RWS",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/2e6cdefa3d7534fba6cca1253c64c8c71c705505f7717bb202af1d3ecc5bcc5f.png"
-    },
-    {
-      "chainId": 369,
-      "address": "0x07413458f3f90c7eccbd039bc4ba4d5e0ff83fb2",
-      "name": "Strawberry & Pineapple Index Fund",
-      "symbol": "S&P 500",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/c7e7e93b5d3533e2e1dc808ff787c783056c2e943ed782e9f7fc7eb74d8f5f15.webp"
     },
     {
       "chainId": 369,
@@ -15051,7 +14979,7 @@
     {
       "chainId": 369,
       "address": "0xb266ef22c2d992101a0f4bf04757e30dfbba8fa1",
-      "name": "Richard Simpson ",
+      "name": "Richard Simpson",
       "symbol": "Simp",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/0cb31b0b33c427fe678a03e21a16b39330762758ea4834c0391e1c6ea87411e8.webp"
@@ -15083,7 +15011,7 @@
     {
       "chainId": 369,
       "address": "0x984ff0f63f505f23f6a0f61bb2e3e4de2b23bab7",
-      "name": "Schatzkind Services ",
+      "name": "Schatzkind Services",
       "symbol": "SKS",
       "decimals": 18,
       "logoURI": "https://ipfs-pump-tires.b-cdn.net/ipfs/QmdR8RTFq4Yn6GRqGFM7jjX2BwPnuVAT3qXWynZNne7hCW"
@@ -16634,16 +16562,8 @@
     },
     {
       "chainId": 369,
-      "address": "0xc9c6171337e7c668745b823a267bc0d321428332",
-      "name": "TREASURY BILL",
-      "symbol": "TREASURY BILL ㉾",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/5deec0063221cca973f9ccbcdf049dbdb0b8099e8f97ade084815dc9d4e96f2b.webp"
-    },
-    {
-      "chainId": 369,
       "address": "0x6eea1a3a3737896326e489b1696c48d55bcf1288",
-      "name": "TRENCH SURVIVOR 25' ",
+      "name": "TRENCH SURVIVOR 25'",
       "symbol": "TRENCH",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/dac22f2bc33b794ac88e9ffeae0e8440ae8080c48b7df0e152d49dc9563776ac.png"
@@ -16787,7 +16707,7 @@
     {
       "chainId": 369,
       "address": "0xc8fa366cbbeba8f54995967f5c1d07eb7ed65cf4",
-      "name": "TRUMP THE BARBERMAN ",
+      "name": "TRUMP THE BARBERMAN",
       "symbol": "TRUMPWWE",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/3d5a0fd3eefcab440977332e99227d0ff3d581751940ef04deac51ff33ca2431.webp"
@@ -18770,27 +18690,11 @@
     },
     {
       "chainId": 369,
-      "address": "0xa1ab4a6fb4c23a7e7a32db1033f45b55de7df891",
-      "name": "yourfriendSOMMI ❤️💛💚💙 FAN TOKEN",
-      "symbol": "yourfriendSOMMI ❤️💛💚💙 FAN TOKEN",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/0914a26ec61339586c80ef0e84a120248cf8b31dd25f08273333427372c05c1f.webp"
-    },
-    {
-      "chainId": 369,
       "address": "0xd9a947789974bad9be77e45c2b327174a9c59d71",
       "name": "Ystar",
       "symbol": "YSR",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/7fdb8c6ae08af276636100306f0f105f593b7aeccbef3e09cd9046fd26e6dc43.png"
-    },
-    {
-      "chainId": 369,
-      "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c",
-      "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
-      "symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/e6aa2d1c32a5e22ece873e72c3e815afbf3b3fef8cf8f9a351d2fc0c60d14579.png"
     },
     {
       "chainId": 369,
@@ -19015,14 +18919,6 @@
       "symbol": "Ǝ𒑰",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/f308104423ee2be536080bf6819d470ee9fc9834c64ff96cf50bd4220e4f07d1.webp"
-    },
-    {
-      "chainId": 369,
-      "address": "0x6be055578eef876f8ea0fae26f210ab4cc19f168",
-      "name": "Antares",
-      "symbol": "α Scorpii",
-      "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/03390cc1dff54610e92e13047130c5ac669aaf18a49f4bd84d3500fc246a0d19.webp"
     },
     {
       "chainId": 369,
