@@ -1,0 +1,260 @@
+{
+  "name": "9mm Base (curated)",
+  "timestamp": "2026-05-28T10:45:50.390Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 4
+  },
+  "tokens": [
+    {
+      "name": "Chia Warped XCH",
+      "symbol": "wXCH",
+      "address": "0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+    },
+    {
+      "name": "9mm on Base",
+      "symbol": "9mm",
+      "address": "0xe290816384416fb1dB9225e176b716346dB9f9fE",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xe290816384416fb1dB9225e176b716346dB9f9fE.png"
+    },
+    {
+      "address": "0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
+      "name": "higher",
+      "symbol": "HIGHER",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+      "name": "Mog Coin",
+      "symbol": "Mog",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C.png",
+      "chainId": 8453,
+      "decimals": 8
+    },
+    {
+      "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+      "name": "Brett",
+      "symbol": "BRETT",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x532f27101965dd16442E59d40670FaF5eBB142E4.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+      "name": "Aerodrome",
+      "symbol": "AERO",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x940181a94A35A4569E4529A3CDfB74e38FD98631.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+      "name": "Keyboard Cat",
+      "symbol": "KEYCAT",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x9a26F5433671751C3276a065f57e5a02D2817973.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+      "name": "WELL",
+      "symbol": "WELL",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xA88594D404727625A9437C3f886C7643872296AE.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+      "name": "Mister Miggles",
+      "symbol": "MIGGLES",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+      "name": "B3",
+      "symbol": "B3",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "name": "Base tBTC v2",
+      "symbol": "tBTC",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+      "name": "EURC",
+      "symbol": "EURC",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
+      "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x63706e401c06ac8513145b7687A14804d17f814b.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+      "name": "Morpho Token",
+      "symbol": "MORPHO",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xc3De830EA07524a0761646a6a4e4be0e114a3C83.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf.png",
+      "chainId": 8453,
+      "decimals": 8
+    },
+    {
+      "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
+      "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46",
+      "name": "HOA From Pulsechain",
+      "symbol": "HOA",
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x84B0b1EE6eef971105442Eb9Ab420F3DbB774b46.png",
+      "chainId": 8453,
+      "decimals": 18
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
+}
