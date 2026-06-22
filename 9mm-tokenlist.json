@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-05-20T10:59:36.942Z",
+  "timestamp": "2026-06-22T22:26:32.000Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 14
+    "patch": 15
   },
   "tokens": [
     {
@@ -8878,6 +8878,14 @@
       "symbol": "DRS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x17637e738D095f4E480CabBF55038E4E9e2B235E.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xE318a5c4bFEBb23DA12A47ac429B8325B7D45B80",
+      "name": "Pewswap5",
+      "symbol": "Pewswap5",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xE318a5c4bFEBb23DA12A47ac429B8325B7D45B80.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
