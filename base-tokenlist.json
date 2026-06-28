@@ -114,7 +114,7 @@
     {
       "address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
       "name": "NANI",
-      "symbol": "⌘",
+      "symbol": "\u2318",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x00000000000007C8612bA63Df8DdEfD9E6077c97.png",
       "chainId": 8453,
       "decimals": 18
@@ -2097,8 +2097,8 @@
     },
     {
       "address": "0x46A8615b7B75579504f465712913C190cE7BD12c",
-      "name": "birdón",
-      "symbol": "BIRDÓN",
+      "name": "bird\u00f3n",
+      "symbol": "BIRD\u00d3N",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x46A8615b7B75579504f465712913C190cE7BD12c.png",
       "chainId": 8453,
       "decimals": 18
@@ -5697,7 +5697,7 @@
     },
     {
       "address": "0xF25B7DD973e30Dcf219fbED7bD336b9ab5A05DD9",
-      "name": "$BRAINS - your greed is my fuel 🤯🧠 by Virtuals",
+      "name": "$BRAINS - your greed is my fuel \ud83e\udd2f\ud83e\udde0 by Virtuals",
       "symbol": "BRAINS",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xF25B7DD973e30Dcf219fbED7bD336b9ab5A05DD9.png",
       "chainId": 8453,
@@ -5769,7 +5769,7 @@
     },
     {
       "address": "0xF878e27aFB649744EEC3c5c0d03bc9335703CFE3",
-      "name": "Eolas ☴",
+      "name": "Eolas \u2634",
       "symbol": "EOLAS",
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xF878e27aFB649744EEC3c5c0d03bc9335703CFE3.png",
       "chainId": 8453,
@@ -7134,7 +7134,7 @@
       "chainId": 8453,
       "address": "0x817cAb331aaA4c24b4e32024FCa093AD40CBa208",
       "name": "Love",
-      "symbol": "❤️",
+      "symbol": "\u2764\ufe0f",
       "decimals": 18,
       "logoURI": "https://gib.show/image/direct/3b7f234fa09a2f76a1371fe85aed6d5f3f8816ee17c8b4007709438446e3afd6.webp"
     },
@@ -7173,8 +7173,8 @@
     {
       "chainId": 8453,
       "address": "0x962A4859B3195D5218f9D5cC85adF17a3DC66593",
-      "name": "Peel Ⅱ Peel Cash",
-      "symbol": "PⅡP",
+      "name": "Peel \u2161 Peel Cash",
+      "symbol": "P\u2161P",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x962A4859B3195D5218f9D5cC85adF17a3DC66593.png"
     },
@@ -7197,7 +7197,7 @@
     {
       "chainId": 8453,
       "address": "0x9cf6b11C91cBCAB8b6160b67D6B103A0D648cd86",
-      "name": "Nyāsu no uta ニャースのうた",
+      "name": "Ny\u0101su no uta \u30cb\u30e3\u30fc\u30b9\u306e\u3046\u305f",
       "symbol": "MEOWTH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x9cf6b11C91cBCAB8b6160b67D6B103A0D648cd86.png"
@@ -7317,7 +7317,7 @@
     {
       "chainId": 8453,
       "address": "0xA62f6691ccFF782245BF47992c9346C187d760d3",
-      "name": "ナナナ Banana Republic from PulseChain",
+      "name": "\u30ca\u30ca\u30ca Banana Republic from PulseChain",
       "symbol": "Nanana",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xA62f6691ccFF782245BF47992c9346C187d760d3.png"
@@ -7345,6 +7345,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4087fF5F00dAAFdd24F93b72a4BFdc3e6b5C1fa8",
+      "name": "Chia Warped DIG",
+      "symbol": "wDIG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x4087fF5F00dAAFdd24F93b72a4BFdc3e6b5C1fa8.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
