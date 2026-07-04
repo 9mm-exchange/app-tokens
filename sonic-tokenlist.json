@@ -1,12 +1,20 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2025-03-24T02:20:19.436Z",
+  "timestamp": "2026-07-04T09:09:33.000Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 3
+    "patch": 4
   },
   "tokens": [
+    {
+      "name": "Sonic",
+      "symbol": "S",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/sonic-logos/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38.png"
+    },
     {
       "name": "Wrapped Sonic",
       "symbol": "wS",

@@ -1,12 +1,20 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-05-28T10:45:50.389Z",
+  "timestamp": "2026-07-04T09:09:33.000Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+    },
     {
       "name": "Wrapped Ether",
       "symbol": "WETH",
