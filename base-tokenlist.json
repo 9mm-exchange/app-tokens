@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-05-28T10:45:50.390Z",
+  "timestamp": "2026-07-07T19:10:54.739Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 3
+    "patch": 4
   },
   "tokens": [
     {
@@ -7353,6 +7353,14 @@
       "symbol": "wDIG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x4087fF5F00dAAFdd24F93b72a4BFdc3e6b5C1fa8.png"
+    },
+    {
+      "chainId": 8453,
+      "name": "Chia Warped BYC",
+      "address": "0x16b13A47B0C535EFaE58675e0657d3C22471cdA8",
+      "symbol": "wBYC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x16b13A47B0C535EFaE58675e0657d3C22471cdA8.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
