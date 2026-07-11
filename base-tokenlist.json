@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-07-07T19:10:54.739Z",
+  "timestamp": "2026-07-11T10:39:00.498Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -7361,6 +7361,14 @@
       "symbol": "wBYC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0x16b13A47B0C535EFaE58675e0657d3C22471cdA8.png"
+    },
+    {
+      "chainId": 8453,
+      "name": "BEPE GOLD",
+      "address": "0xc5A90B067eA7535C0Be245FB0d52a8B9AE7f6aDF",
+      "symbol": "BEPE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/base-logos/0xc5A90B067eA7535C0Be245FB0d52a8B9AE7f6aDF.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
