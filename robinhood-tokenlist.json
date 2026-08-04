@@ -1,9 +1,9 @@
 {
   "name": "9mm Robinhood Tokens",
-  "timestamp": "2026-08-04T13:20:00.000Z",
+  "timestamp": "2026-08-04T18:12:00.000Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
@@ -1007,6 +1007,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5Cb6F181081301b44905F3ae15419112ecaBd8A6.png"
+    },
+    {
+      "name": "RobinWood",
+      "symbol": "PLANK",
+      "address": "0x69420eaf0eBF43E08F621B014f25cEfDfA7e2DDc",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x69420eaf0eBF43E08F621B014f25cEfDfA7e2DDc.png"
     },
     {
       "name": "Palantir Technologies \u2022 Robinhood Token",
