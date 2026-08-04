@@ -1,13 +1,21 @@
 {
   "name": "9mm Robinhood Tokens",
-  "timestamp": "2026-08-04T10:15:25.000Z",
+  "timestamp": "2026-08-04T13:20:00.000Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
   "tokens": [
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png"
+    },
     {
       "name": "$1 is all you need",
       "symbol": "$1",
