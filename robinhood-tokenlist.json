@@ -1,10 +1,10 @@
 {
   "name": "9mm Robinhood Tokens",
-  "timestamp": "2026-08-04T18:12:00.000Z",
+  "timestamp": "2026-08-04T18:22:00.000Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
   "tokens": [
@@ -1530,7 +1530,7 @@
     },
     {
       "name": "Vibing Cat",
-      "symbol": "VIBE CAT",
+      "symbol": "VIBECAT",
       "address": "0x2355431b83B1A8E40172D099d90243D8D666b56B",
       "chainId": 4663,
       "decimals": 18,
