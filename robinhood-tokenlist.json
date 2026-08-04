@@ -1,0 +1,1724 @@
+{
+  "name": "9mm Robinhood Tokens",
+  "timestamp": "2026-08-04T10:15:25.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
+  "tokens": [
+    {
+      "name": "$1 is all you need",
+      "symbol": "$1",
+      "address": "0x6365Fd27DdEfC42f50895994B67b04fab5f08D5e",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x6365Fd27DdEfC42f50895994B67b04fab5f08D5e.png"
+    },
+    {
+      "name": "Retirement plan",
+      "symbol": "401k",
+      "address": "0xf314AEDeAaDCB02F33a13Eae471Fe06D13AA7777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf314AEDeAaDCB02F33a13Eae471Fe06D13AA7777.png"
+    },
+    {
+      "name": "4663",
+      "symbol": "4663",
+      "address": "0xd4052415613B34Af236024B895574c467f65b6dD",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xd4052415613B34Af236024B895574c467f65b6dD.png"
+    },
+    {
+      "name": "Apple \u2022 Robinhood Token",
+      "symbol": "AAPL",
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9.png"
+    },
+    {
+      "name": "Amazon \u2022 Robinhood Token",
+      "symbol": "AMZN",
+      "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x12f190a9F9d7D37a250758b26824B97CE941bF54.png"
+    },
+    {
+      "name": "Apes Together Strong",
+      "symbol": "APES",
+      "address": "0x2076CD26D8Cf26f91655d4Ada3dD2fdBFdd8e7a4",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x2076CD26D8Cf26f91655d4Ada3dD2fdBFdd8e7a4.png"
+    },
+    {
+      "name": "Artcoin",
+      "symbol": "Artcoin",
+      "address": "0x9516922a56171AB9834b88864d1010a6D8633296",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x9516922a56171AB9834b88864d1010a6D8633296.png"
+    },
+    {
+      "name": "ASML Holding NV \u2022 Robinhood Token",
+      "symbol": "ASML",
+      "address": "0x47F93d52cBeC7C6D2CfC080e154002370a60dAEA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x47F93d52cBeC7C6D2CfC080e154002370a60dAEA.png"
+    },
+    {
+      "name": "AST SpaceMobile \u2022 Robinhood Token",
+      "symbol": "ASTS",
+      "address": "0x1AF6446f07eb1d97c546AFC8c9544cBDF3AD5137",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x1AF6446f07eb1d97c546AFC8c9544cBDF3AD5137.png"
+    },
+    {
+      "name": "Broadcom \u2022 Robinhood Token",
+      "symbol": "AVGO",
+      "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x156E175DD063a8cE274C50654eF40e0032b3fbcF.png"
+    },
+    {
+      "name": "Boeing \u2022 Robinhood Token",
+      "symbol": "BA",
+      "address": "0x4D21483a44Bf67a86b77E3dA301411880797D452",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4D21483a44Bf67a86b77E3dA301411880797D452.png"
+    },
+    {
+      "name": "Baby Cash Cat",
+      "symbol": "BABYCASHCAT",
+      "address": "0x57a1AB439e8C24B90Ecc6534C05621d6E68ED35A",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x57a1AB439e8C24B90Ecc6534C05621d6E68ED35A.png"
+    },
+    {
+      "name": "Bull in Hood",
+      "symbol": "BIH",
+      "address": "0xE555853720737512E3f8Ccf64159A087B4Da51db",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE555853720737512E3f8Ccf64159A087B4Da51db.png"
+    },
+    {
+      "name": "Bankr",
+      "symbol": "BNKR",
+      "address": "0x178E54df3D091EE4D0B2534742eF9e3692b76526",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x178E54df3D091EE4D0B2534742eF9e3692b76526.png"
+    },
+    {
+      "name": "Boe",
+      "symbol": "BOE",
+      "address": "0xBD8e0244791B67547b4aE8cFc9463AB19f6e9c08",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xBD8e0244791B67547b4aE8cFc9463AB19f6e9c08.png"
+    },
+    {
+      "name": "booh",
+      "symbol": "booh",
+      "address": "0x839b8bd8ED3d2F1be5a709CE99144337296681c7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x839b8bd8ED3d2F1be5a709CE99144337296681c7.png"
+    },
+    {
+      "name": "BOW",
+      "symbol": "BOW",
+      "address": "0x9fb101579e716B2571aB069c2718cd06b69ffdD7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x9fb101579e716B2571aB069c2718cd06b69ffdD7.png"
+    },
+    {
+      "name": "BUTTERCOIN",
+      "symbol": "BUTTERCOIN",
+      "address": "0xcDd50D73B45085D71Cb05e2ca238d12C3Bd7bEBD",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xcDd50D73B45085D71Cb05e2ca238d12C3Bd7bEBD.png"
+    },
+    {
+      "name": "Buy Button",
+      "symbol": "BUY",
+      "address": "0x0e8720B8cD84F95b4b6696adbFA8063c4B8B94F2",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0e8720B8cD84F95b4b6696adbFA8063c4B8B94F2.png"
+    },
+    {
+      "name": "Bycocket",
+      "symbol": "BYCOCKET",
+      "address": "0xc79D46D716B33b463b3A6574d6eE26009aBF4E9a",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xc79D46D716B33b463b3A6574d6eE26009aBF4E9a.png"
+    },
+    {
+      "name": "Cash Cat",
+      "symbol": "CASHCAT",
+      "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x020bfC650A365f8BB26819deAAbF3E21291018b4.png"
+    },
+    {
+      "name": "Catcoin",
+      "symbol": "CATCOIN",
+      "address": "0x41F41F7B849A25e027876c485544c8088f447A11",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x41F41F7B849A25e027876c485544c8088f447A11.png"
+    },
+    {
+      "name": "Cerebras Systems \u2022 Robinhood Token",
+      "symbol": "CBRS",
+      "address": "0x5c90450Bbb4273D7b2f17CF6917AEB237A569679",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5c90450Bbb4273D7b2f17CF6917AEB237A569679.png"
+    },
+    {
+      "name": "Carnival Corporation \u2022 Robinhood Token",
+      "symbol": "CCL",
+      "address": "0x9651342CeA770aE9a2969Ba2A52611523146aef9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x9651342CeA770aE9a2969Ba2A52611523146aef9.png"
+    },
+    {
+      "name": "Celsius \u2022 Robinhood Token",
+      "symbol": "CELH",
+      "address": "0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF.png"
+    },
+    {
+      "name": "Canopy Finance",
+      "symbol": "CNPY",
+      "address": "0x532c5583671870723CEEf573600208aF49c87c54",
+      "chainId": 4663,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x532c5583671870723CEEf573600208aF49c87c54.png"
+    },
+    {
+      "name": "COCO",
+      "symbol": "COCO",
+      "address": "0x3AaA874b93612bF3f683b85e2739e81eaB38321e",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x3AaA874b93612bF3f683b85e2739e81eaB38321e.png"
+    },
+    {
+      "name": "Coinbase \u2022 Robinhood Token",
+      "symbol": "COIN",
+      "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x6330D8C3178a418788dF01a47479c0ce7CCF450b.png"
+    },
+    {
+      "name": "Copper pot of wealth",
+      "symbol": "COOKWARE",
+      "address": "0xdcc34bdD5D3C30237303b95D2F59cc29437b5c74",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xdcc34bdD5D3C30237303b95D2F59cc29437b5c74.png"
+    },
+    {
+      "name": "Cooper",
+      "symbol": "COOPER",
+      "address": "0x19F862c0cf83a9F65b19C37Fd1F4fd5bAcB097ae",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x19F862c0cf83a9F65b19C37Fd1F4fd5bAcB097ae.png"
+    },
+    {
+      "name": "Costco \u2022 Robinhood Token",
+      "symbol": "COST",
+      "address": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2.png"
+    },
+    {
+      "name": "CRASHCAT",
+      "symbol": "CRASHCAT",
+      "address": "0xCF8B02128d2803b3dF114E277094cC1096294b5C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xCF8B02128d2803b3dF114E277094cC1096294b5C.png"
+    },
+    {
+      "name": "CrowdStrike Holdings \u2022 Robinhood Token",
+      "symbol": "CRWD",
+      "address": "0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931.png"
+    },
+    {
+      "name": "daHood",
+      "symbol": "DAHOOD",
+      "address": "0x29fbaa3668E688C83fae9b5Dd13cC3CfC097ccBF",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x29fbaa3668E688C83fae9b5Dd13cC3CfC097ccBF.png"
+    },
+    {
+      "name": "DATA BEAR",
+      "symbol": "DATABEAR",
+      "address": "0x90079857237dA767c38D1d261a39848ea424319E",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x90079857237dA767c38D1d261a39848ea424319E.png"
+    },
+    {
+      "name": "Datadog \u2022 Robinhood Token",
+      "symbol": "DDOG",
+      "address": "0x27c99fBde9D0d2AA4f4Bfb4943f237843DdF6958",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x27c99fBde9D0d2AA4f4Bfb4943f237843DdF6958.png"
+    },
+    {
+      "name": "Dell \u2022 Robinhood Token",
+      "symbol": "DELL",
+      "address": "0x941AE714EC6D8130c7B75d67160Ca08f1e7d11Dd",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x941AE714EC6D8130c7B75d67160Ca08f1e7d11Dd.png"
+    },
+    {
+      "name": "Delphic Arena",
+      "symbol": "DELPHIC",
+      "address": "0xAA730F8cca8A22600f92d854322C560390FCff87",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xAA730F8cca8A22600f92d854322C560390FCff87.png"
+    },
+    {
+      "name": "DERP",
+      "symbol": "DERP",
+      "address": "0x6543B7746ca744C4bb2198191E71f40FF04C41b9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x6543B7746ca744C4bb2198191E71f40FF04C41b9.png"
+    },
+    {
+      "name": "Dice Protocol",
+      "symbol": "DICE",
+      "address": "0x3F9f0b6073Ee8c495Aed96869AF31850fED40FeB",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x3F9f0b6073Ee8c495Aed96869AF31850fED40FeB.png"
+    },
+    {
+      "name": "Dog In Hood",
+      "symbol": "DIH",
+      "address": "0x17bb0C898254406b1Ea2e8E99B0C263e26c9E4a4",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x17bb0C898254406b1Ea2e8E99B0C263e26c9E4a4.png"
+    },
+    {
+      "name": "Dopehood",
+      "symbol": "DOHO",
+      "address": "0x7331991062f3B1E4eb0FD0506bF1ff0779e08b91",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x7331991062f3B1E4eb0FD0506bF1ff0779e08b91.png"
+    },
+    {
+      "name": "Dumb Money",
+      "symbol": "DUMBMONEY",
+      "address": "0x4C9D9527c4E3Cf9FAF70f0df8429d2ccED157492",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4C9D9527c4E3Cf9FAF70f0df8429d2ccED157492.png"
+    },
+    {
+      "name": "e.l.f. Beauty \u2022 Robinhood Token",
+      "symbol": "ELF",
+      "address": "0x39EC44Bee4F6A116c6F9B8De566848a985C53C60",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x39EC44Bee4F6A116c6F9B8De566848a985C53C60.png"
+    },
+    {
+      "name": "Ford Motor \u2022 Robinhood Token",
+      "symbol": "F",
+      "address": "0x25C288E6D899b9BC30160965aD9644c67e73bE0C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x25C288E6D899b9BC30160965aD9644c67e73bE0C.png"
+    },
+    {
+      "name": "Family coin",
+      "symbol": "FAMILY",
+      "address": "0x40e836F547653691B74C0d68fFf60beFE36CB024",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x40e836F547653691B74C0d68fFf60beFE36CB024.png"
+    },
+    {
+      "name": "FIDEL",
+      "symbol": "FIDEL",
+      "address": "0xDCa6da2ADcebE397C15f348F6EE38EE0eBe6b867",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xDCa6da2ADcebE397C15f348F6EE38EE0eBe6b867.png"
+    },
+    {
+      "name": "Finance Bro",
+      "symbol": "FINANCEBRO",
+      "address": "0xA56605E4c65e702F72830bf6880E821588BAb836",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xA56605E4c65e702F72830bf6880E821588BAb836.png"
+    },
+    {
+      "name": "Fletch Finance",
+      "symbol": "FLETCH",
+      "address": "0x3450598e419aBB5609f60e4B2Fda127ff0897777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x3450598e419aBB5609f60e4B2Fda127ff0897777.png"
+    },
+    {
+      "name": "RobinFlow",
+      "symbol": "FLOW",
+      "address": "0xE59ECcb15EA07A755eB9587EefdA7929559E1Fa6",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE59ECcb15EA07A755eB9587EefdA7929559E1Fa6.png"
+    },
+    {
+      "name": "Fonz on Pons",
+      "symbol": "FONZ",
+      "address": "0x1aBf16f660CCbAa22CE8646deB1B63635D582228",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x1aBf16f660CCbAa22CE8646deB1B63635D582228.png"
+    },
+    {
+      "name": "Forecast AI",
+      "symbol": "FORAI",
+      "address": "0xcC9C1Ec224c3824AE5EA699EC72ef5FAD4165e49",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xcC9C1Ec224c3824AE5EA699EC72ef5FAD4165e49.png"
+    },
+    {
+      "name": "Robin Hood",
+      "symbol": "FOX",
+      "address": "0x2103faA9D1762e27a716C61718b3aCf3Ec1F9bf1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x2103faA9D1762e27a716C61718b3aCf3Ec1F9bf1.png"
+    },
+    {
+      "name": "Futu Holdings \u2022 Robinhood Token",
+      "symbol": "FUTU",
+      "address": "0xeB30663bDFf0622Ef4e4E5cBb4E975F19f33f51D",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xeB30663bDFf0622Ef4e4E5cBb4E975F19f33f51D.png"
+    },
+    {
+      "name": "The Green Hood",
+      "symbol": "GHOOD",
+      "address": "0x41Dc5ed850E67318C3B3f1DFDF833B27a8Bd17b5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x41Dc5ed850E67318C3B3f1DFDF833B27a8Bd17b5.png"
+    },
+    {
+      "name": "Givest",
+      "symbol": "Givest",
+      "address": "0x0188DA44dCc9b6C9D0d80DE904c633c5ff227777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0188DA44dCc9b6C9D0d80DE904c633c5ff227777.png"
+    },
+    {
+      "name": "GameStop \u2022 Robinhood Token",
+      "symbol": "GME",
+      "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x1b0E319c6A659F002271B69dB8A7df2F911c153E.png"
+    },
+    {
+      "name": "Alphabet Class A \u2022 Robinhood Token",
+      "symbol": "GOOGL",
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3.png"
+    },
+    {
+      "name": "Mr. Goxx",
+      "symbol": "GOXX",
+      "address": "0x343a9C531AcF28c4d9f4cd8Ef2d6413CEBa3c2df",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x343a9C531AcF28c4d9f4cd8Ef2d6413CEBa3c2df.png"
+    },
+    {
+      "name": "The Little Guy",
+      "symbol": "Guy",
+      "address": "0x51b57D1157975756C156EE28E3E167718792B665",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x51b57D1157975756C156EE28E3E167718792B665.png"
+    },
+    {
+      "name": "HoodDomains",
+      "symbol": "HD",
+      "address": "0x47eE684E52e5d92De0B24D4E00aD45c7Af7Db9A3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x47eE684E52e5d92De0B24D4E00aD45c7Af7Db9A3.png"
+    },
+    {
+      "name": "Starecat",
+      "symbol": "HELIA",
+      "address": "0xA3B9120593C93169E36A0CDea1324584B745E03f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xA3B9120593C93169E36A0CDea1324584B745E03f.png"
+    },
+    {
+      "name": "Hood Morning",
+      "symbol": "HM",
+      "address": "0x5788116f4Fe1820bf499C26FC7203630BF2d020f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5788116f4Fe1820bf499C26FC7203630BF2d020f.png"
+    },
+    {
+      "name": "Thinking Cat",
+      "symbol": "HMM",
+      "address": "0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f.png"
+    },
+    {
+      "name": "Diamond Hands",
+      "symbol": "HODL",
+      "address": "0xF4C450c1570C2DBda91DE1Ed2E39995a15028c97",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF4C450c1570C2DBda91DE1Ed2E39995a15028c97.png"
+    },
+    {
+      "name": "Hoodbird",
+      "symbol": "HOODBIRD",
+      "address": "0x0aCb834130D284BFfFa1C697f02DDDaFd8F50335",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0aCb834130D284BFfFa1C697f02DDDaFd8F50335.png"
+    },
+    {
+      "name": "Exterminate All Humans",
+      "symbol": "HOODBOT",
+      "address": "0x32758ae8e02B0A2CB6b802B6aAEaF74158C169F7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x32758ae8e02B0A2CB6b802B6aAEaF74158C169F7.png"
+    },
+    {
+      "name": "The Hoodies",
+      "symbol": "HOODIES",
+      "address": "0x281079a7832B15238Ed9C6eC1e787f3Ed9DB6AD1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x281079a7832B15238Ed9C6eC1e787f3Ed9DB6AD1.png"
+    },
+    {
+      "name": "ROBIN THE HOODINI",
+      "symbol": "HOODINI",
+      "address": "0x0856F71C65268DA154DA4413d961cb348Dc6119d",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0856F71C65268DA154DA4413d961cb348Dc6119d.png"
+    },
+    {
+      "name": "Hoodrat",
+      "symbol": "HOODRAT",
+      "address": "0x8e62F281f282686fCa6dCB39288069a93fC23F1c",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8e62F281f282686fCa6dCB39288069a93fC23F1c.png"
+    },
+    {
+      "name": "Hooja",
+      "symbol": "HOOJA",
+      "address": "0x64459A5592723ffBaceAff5799f4a9EdAc579C6c",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x64459A5592723ffBaceAff5799f4a9EdAc579C6c.png"
+    },
+    {
+      "name": "HOPPY",
+      "symbol": "HOPPY",
+      "address": "0x834b31164b5e5F4a08B441D796aBB85f714bb7C1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x834b31164b5e5F4a08B441D796aBB85f714bb7C1.png"
+    },
+    {
+      "name": "HOOD PEPE",
+      "symbol": "HPEPE",
+      "address": "0x4f298B7B07abcB81e4c097C28dFE68D49F17c0de",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4f298B7B07abcB81e4c097C28dFE68D49F17c0de.png"
+    },
+    {
+      "name": "HoodPerp",
+      "symbol": "HPERP",
+      "address": "0x2b10D89bA75cfE18f2678a66e4c18c1005b03AFA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x2b10D89bA75cfE18f2678a66e4c18c1005b03AFA.png"
+    },
+    {
+      "name": "What If",
+      "symbol": "IF",
+      "address": "0x232CDFc415D10b673845D83Dc02ba2eaBe7e30d1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x232CDFc415D10b673845D83Dc02ba2eaBe7e30d1.png"
+    },
+    {
+      "name": "Imagine",
+      "symbol": "IMAGINE",
+      "address": "0xEDc62851Ef24928D934024f69bB073A305090663",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xEDc62851Ef24928D934024f69bB073A305090663.png"
+    },
+    {
+      "name": "The Index",
+      "symbol": "Index",
+      "address": "0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x56910D4409F3a0C78C64DD8D0545FF0705389870.png"
+    },
+    {
+      "name": "Intel \u2022 Robinhood Token",
+      "symbol": "INTC",
+      "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xc72b96e0E48ecd4DC75E1e45396e26300BC39681.png"
+    },
+    {
+      "name": "Intuit \u2022 Robinhood Token",
+      "symbol": "INTU",
+      "address": "0x56d23beE5f41A7120170b0c603Dae30128e460e9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x56d23beE5f41A7120170b0c603Dae30128e460e9.png"
+    },
+    {
+      "name": "The Juggernaut",
+      "symbol": "JUGGERNAUT",
+      "address": "0xD7321801CAae694090694Ff55A9323139F043B88",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xD7321801CAae694090694Ff55A9323139F043B88.png"
+    },
+    {
+      "name": "Kaleido",
+      "symbol": "KALEIDO",
+      "address": "0x6689aB375AaaA9Aed78aAABa2e8edcC547478Cf1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x6689aB375AaaA9Aed78aAABa2e8edcC547478Cf1.png"
+    },
+    {
+      "name": "Kansoku Labs",
+      "symbol": "KANSO",
+      "address": "0xAB26d5B48bD07f1248A66FD817036f785078B51d",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xAB26d5B48bD07f1248A66FD817036f785078B51d.png"
+    },
+    {
+      "name": "KITSU",
+      "symbol": "KITSU",
+      "address": "0x8d4dFaaA4198b6486E0293Fec914C2B6a821D4DC",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8d4dFaaA4198b6486E0293Fec914C2B6a821D4DC.png"
+    },
+    {
+      "name": "Leavehood",
+      "symbol": "LEAVE",
+      "address": "0x23f88eda2B24A0D45d4C3e2AD05edFf30f860697",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x23f88eda2B24A0D45d4C3e2AD05edFf30f860697.png"
+    },
+    {
+      "name": "Lemon Protocol",
+      "symbol": "Lemon",
+      "address": "0xb1d46EfF0e3D1a4169A4D4159B46c5783b4F7a05",
+      "chainId": 4663,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xb1d46EfF0e3D1a4169A4D4159B46c5783b4F7a05.png"
+    },
+    {
+      "name": "Lemon",
+      "symbol": "LEMON.FUN",
+      "address": "0xf0E17e54239CD945Cd7bEa471a3a2CA6a8C7f7A3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf0E17e54239CD945Cd7bEa471a3a2CA6a8C7f7A3.png"
+    },
+    {
+      "name": "Liluni",
+      "symbol": "Liluni",
+      "address": "0x4a6Eec8A30b49d289B9Fc865Fd374b4D61eab8fB",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4a6Eec8A30b49d289B9Fc865Fd374b4D61eab8fB.png"
+    },
+    {
+      "name": "Eli Lilly \u2022 Robinhood Token",
+      "symbol": "LLY",
+      "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8005d266423c7ea827372c9c864491e5786600ea.png"
+    },
+    {
+      "name": "Lululemon \u2022 Robinhood Token",
+      "symbol": "LULU",
+      "address": "0x4e62068525Ab11FE768e29dfD00ef909B9803016",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4e62068525Ab11FE768e29dfD00ef909B9803016.png"
+    },
+    {
+      "name": "Lady Marian",
+      "symbol": "MARIAN",
+      "address": "0x01637b14B7378B99dE75A64d50656d98488D9a4d",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x01637b14B7378B99dE75A64d50656d98488D9a4d.png"
+    },
+    {
+      "name": "Market Cat",
+      "symbol": "MarketCat",
+      "address": "0xfB97e1CA99378eA348Eb794cbed099408ca74D1C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xfB97e1CA99378eA348Eb794cbed099408ca74D1C.png"
+    },
+    {
+      "name": "MongoDB \u2022 Robinhood Token",
+      "symbol": "MDB",
+      "address": "0xDdf2266b79abf0B48898959B0ed6E6adf512be74",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xDdf2266b79abf0B48898959B0ed6E6adf512be74.png"
+    },
+    {
+      "name": "memestock",
+      "symbol": "MEMESTOCK",
+      "address": "0x10dc3d3719b507e6bF3fC90c3D327d8590827777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x10dc3d3719b507e6bF3fC90c3D327d8590827777.png"
+    },
+    {
+      "name": "meow",
+      "symbol": "meow",
+      "address": "0x75C8258eAa6d0f94b82951194191cA3efB0bCBe2",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x75C8258eAa6d0f94b82951194191cA3efB0bCBe2.png"
+    },
+    {
+      "name": "MEOWOOD",
+      "symbol": "MEOWOOD",
+      "address": "0x3018E275Da8D1acD16E7B803e74FcA9c251fd60f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x3018E275Da8D1acD16E7B803e74FcA9c251fd60f.png"
+    },
+    {
+      "name": "Meta Platforms \u2022 Robinhood Token",
+      "symbol": "META",
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35.png"
+    },
+    {
+      "name": "Mizukara",
+      "symbol": "MIZUKARA",
+      "address": "0x407470F85e0b342a52AaE2F191E135cEF2947777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x407470F85e0b342a52AaE2F191E135cEF2947777.png"
+    },
+    {
+      "name": "MOG CAT",
+      "symbol": "MOG",
+      "address": "0xf55F03Ea76c4e21F263631b1860b55E255ACb339",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf55F03Ea76c4e21F263631b1860b55E255ACb339.png"
+    },
+    {
+      "name": "Meridian",
+      "symbol": "MRDN",
+      "address": "0xBaabCB1800C539a58a46035d3982403a37FD6d5D",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xBaabCB1800C539a58a46035d3982403a37FD6d5D.png"
+    },
+    {
+      "name": "Microsoft \u2022 Robinhood Token",
+      "symbol": "MSFT",
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xe93237C50D904957Cf27E7B1133b510C669c2e74.png"
+    },
+    {
+      "name": "Strategy Inc. \u2022 Robinhood Token",
+      "symbol": "MSTR",
+      "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xec262a75e413fAfD0dF80480274532C79D42da09.png"
+    },
+    {
+      "name": "Micron Technology \u2022 Robinhood Token",
+      "symbol": "MU",
+      "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD.png"
+    },
+    {
+      "name": "Mumu The Bull",
+      "symbol": "MUMU",
+      "address": "0x8eC17C059f250A5c19566C3fC56EE13A343dD283",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8eC17C059f250A5c19566C3fC56EE13A343dD283.png"
+    },
+    {
+      "name": "Mystery",
+      "symbol": "MYSTERY",
+      "address": "0xa5baC17a919A10Ba0628CDA5BCf273681e1a8D4e",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa5baC17a919A10Ba0628CDA5BCf273681e1a8D4e.png"
+    },
+    {
+      "name": "Naven Network",
+      "symbol": "NAVEN",
+      "address": "0xEafA804083A4886a9460b5B19557334A652bEBa8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xEafA804083A4886a9460b5B19557334A652bEBa8.png"
+    },
+    {
+      "name": "NetNet",
+      "symbol": "NET",
+      "address": "0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf",
+      "chainId": 4663,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf.png"
+    },
+    {
+      "name": "Netflix \u2022 Robinhood Token",
+      "symbol": "NFLX",
+      "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8.png"
+    },
+    {
+      "name": "Nibor",
+      "symbol": "NIBOR",
+      "address": "0xa784B82c39C482d3Fbd6cDD93Ccf9a230b09Dfe7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa784B82c39C482d3Fbd6cDD93Ccf9a230b09Dfe7.png"
+    },
+    {
+      "name": "NINEHOOD",
+      "symbol": "NINEHOOD",
+      "address": "0x01397109534e47d3742e794D3a610fA1C3158888",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x01397109534e47d3742e794D3a610fA1C3158888.png"
+    },
+    {
+      "name": "Nocturn",
+      "symbol": "NOC",
+      "address": "0xB2A9A1D670155dEffDFf950985b5B4a587a9b583",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xB2A9A1D670155dEffDFf950985b5B4a587a9b583.png"
+    },
+    {
+      "name": "ServiceNow \u2022 Robinhood Token",
+      "symbol": "NOW",
+      "address": "0x0C3260aF4B8f13a69c4c2dFb84fD667890CDFa14",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0C3260aF4B8f13a69c4c2dFb84fD667890CDFa14.png"
+    },
+    {
+      "name": "Non-Playable Coin",
+      "symbol": "NPC",
+      "address": "0x241F3Caad03Db31137F641beF005A32176530024",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x241F3Caad03Db31137F641beF005A32176530024.png"
+    },
+    {
+      "name": "Nerve",
+      "symbol": "NRV",
+      "address": "0xACe3C5Adc456dE444501D91C12B0b03f902EB250",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xACe3C5Adc456dE444501D91C12B0b03f902EB250.png"
+    },
+    {
+      "name": "Nu \u2022 Robinhood Token",
+      "symbol": "NU",
+      "address": "0x408c14038a04f7bD235329E26d2bf569ee20e250",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x408c14038a04f7bD235329E26d2bf569ee20e250.png"
+    },
+    {
+      "name": "Nuggies",
+      "symbol": "NUG",
+      "address": "0x8eD8Ab093d29e9ccBc26BB38Df09910Ae1d69125",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8eD8Ab093d29e9ccBc26BB38Df09910Ae1d69125.png"
+    },
+    {
+      "name": "NVIDIA \u2022 Robinhood Token",
+      "symbol": "NVDA",
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC.png"
+    },
+    {
+      "name": "novara",
+      "symbol": "NVR",
+      "address": "0x880B852316d430741C5B693AA53f22871e42eE77",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x880B852316d430741C5B693AA53f22871e42eE77.png"
+    },
+    {
+      "name": "OUTLAW",
+      "symbol": "OUTLAW",
+      "address": "0xec51B6E5D99487Ac5646F3311C109714b54f6ED8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xec51B6E5D99487Ac5646F3311C109714b54f6ED8.png"
+    },
+    {
+      "name": "Everpure \u2022 Robinhood Token",
+      "symbol": "P",
+      "address": "0x1Cdad396DB64BDa184d5182A97Dd9B3C62100b7D",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x1Cdad396DB64BDa184d5182A97Dd9B3C62100b7D.png"
+    },
+    {
+      "name": "PACKS",
+      "symbol": "PACKS",
+      "address": "0xE59e2953334cc1664181976D79C4b5d39eAb7777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE59e2953334cc1664181976D79C4b5d39eAb7777.png"
+    },
+    {
+      "name": "StockPackz",
+      "symbol": "Packz",
+      "address": "0xaAb3d2E25869DD9661e7A886B9A51c02Ee6c7777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xaAb3d2E25869DD9661e7A886B9A51c02Ee6c7777.png"
+    },
+    {
+      "name": "Peeps",
+      "symbol": "PEEPS",
+      "address": "0xf202dE51BB42A0073948b0971707D14C54Ef5F44",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf202dE51BB42A0073948b0971707D14C54Ef5F44.png"
+    },
+    {
+      "name": "Pepons",
+      "symbol": "PEPONS",
+      "address": "0x851BaBFe94E3fFa5a6d9C3c0Dd9f27b7BF0175F6",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x851BaBFe94E3fFa5a6d9C3c0Dd9f27b7BF0175F6.png"
+    },
+    {
+      "name": "pipedog",
+      "symbol": "PIPEDOG",
+      "address": "0x5Cb6F181081301b44905F3ae15419112ecaBd8A6",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5Cb6F181081301b44905F3ae15419112ecaBd8A6.png"
+    },
+    {
+      "name": "Palantir Technologies \u2022 Robinhood Token",
+      "symbol": "PLTR",
+      "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A.png"
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x39dBED3a2bd333467115dE45665cC57F813C4571.png"
+    },
+    {
+      "name": "PONSTAR",
+      "symbol": "PONSTAR",
+      "address": "0xA737dF5De18E3AA6b0bf8C2e9846Ed699F6f2AEB",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xA737dF5De18E3AA6b0bf8C2e9846Ed699F6f2AEB.png"
+    },
+    {
+      "name": "Pooch",
+      "symbol": "POOCH",
+      "address": "0xFe2112b4569D3a131E7964dCF45c155d7907534e",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xFe2112b4569D3a131E7964dCF45c155d7907534e.png"
+    },
+    {
+      "name": "poo\u0265coin",
+      "symbol": "poo\u0265",
+      "address": "0x63e0ca3841Bff47A191949417aB64F82CFA3314B",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x63e0ca3841Bff47A191949417aB64F82CFA3314B.png"
+    },
+    {
+      "name": "pow",
+      "symbol": "pow",
+      "address": "0x86a24426D1FC5dfDEe454120af3ECc3Cc552789b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x86a24426D1FC5dfDEe454120af3ECc3Cc552789b.png"
+    },
+    {
+      "name": "Permian Resources \u2022 Robinhood Token",
+      "symbol": "PR",
+      "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C.png"
+    },
+    {
+      "name": "Invesco QQQ \u2022 Robinhood Token",
+      "symbol": "QQQ",
+      "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xD5f3879160bc7c32ebb4dC785F8a4F505888de68.png"
+    },
+    {
+      "name": "Quiver Money",
+      "symbol": "QUIVER",
+      "address": "0x364D9F23ede3aDA0F5e3f41DF10f0a0D01C57777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x364D9F23ede3aDA0F5e3f41DF10f0a0D01C57777.png"
+    },
+    {
+      "name": "r0b",
+      "symbol": "r0b",
+      "address": "0x647dD517c8820fc9874E1a3f58E6e0b9A43395c0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x647dD517c8820fc9874E1a3f58E6e0b9A43395c0.png"
+    },
+    {
+      "name": "RANDY",
+      "symbol": "RANDY",
+      "address": "0x7f3d6B93809Fd4534Bf3C5B25dEEAeC0aab5a1D8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x7f3d6B93809Fd4534Bf3C5B25dEEAeC0aab5a1D8.png"
+    },
+    {
+      "name": "Ranger AI",
+      "symbol": "RANGER",
+      "address": "0xF132Bd1D1770D42CF4Ec8659b9077D0d1c197CC1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF132Bd1D1770D42CF4Ec8659b9077D0d1c197CC1.png"
+    },
+    {
+      "name": "Roblox \u2022 Robinhood Token",
+      "symbol": "RBLX",
+      "address": "0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8.png"
+    },
+    {
+      "name": "Reddit \u2022 Robinhood Token",
+      "symbol": "RDDT",
+      "address": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C.png"
+    },
+    {
+      "name": "Reales",
+      "symbol": "REAL",
+      "address": "0xAd0c4E4Acc1BA90ad5B28CCdc6F8E7eE35db7777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xAd0c4E4Acc1BA90ad5B28CCdc6F8E7eE35db7777.png"
+    },
+    {
+      "name": "Reload AI",
+      "symbol": "RELOAD",
+      "address": "0x555652965830DF9Bf2e7cC59E34931db4F2dbC89",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x555652965830DF9Bf2e7cC59E34931db4F2dbC89.png"
+    },
+    {
+      "name": "Robinhood Pepe",
+      "symbol": "REPE",
+      "address": "0x5266eeafF092D6136AB63D18B975A60a0Cc0C8f7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5266eeafF092D6136AB63D18B975A60a0Cc0C8f7.png"
+    },
+    {
+      "name": "RiceLabs",
+      "symbol": "RICE",
+      "address": "0x811624d7a62E5079052A9B4F8Ec0a139Ef389283",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x811624d7a62E5079052A9B4F8Ec0a139Ef389283.png"
+    },
+    {
+      "name": "Rivian Automotive \u2022 Robinhood Token",
+      "symbol": "RIVN",
+      "address": "0xB1BF26c1D20ff267A4f93550d1E0d06ac40a114B",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xB1BF26c1D20ff267A4f93550d1E0d06ac40a114B.png"
+    },
+    {
+      "name": "Rob",
+      "symbol": "ROB",
+      "address": "0x84F210f9fa42613E5F5bC89EE4978AfBd1e90F11",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x84F210f9fa42613E5F5bC89EE4978AfBd1e90F11.png"
+    },
+    {
+      "name": "Robinfun",
+      "symbol": "ROBINFUN",
+      "address": "0x56A98Db16Cf501b686c14BA00a5DeC02E87083FA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x56A98Db16Cf501b686c14BA00a5DeC02E87083FA.png"
+    },
+    {
+      "name": "ROBINHOODIES",
+      "symbol": "ROBINHOODIES",
+      "address": "0x8fDE2C15D44eB7Cc1A889bc74633e226F91d3295",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8fDE2C15D44eB7Cc1A889bc74633e226F91d3295.png"
+    },
+    {
+      "name": "Robinhood Payments Protocol",
+      "symbol": "RPP402",
+      "address": "0x94FEf3763ED87051267dCd7FfC5DF416B6C03a7E",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x94FEf3763ED87051267dCd7FfC5DF416B6C03a7E.png"
+    },
+    {
+      "name": "The Runner",
+      "symbol": "RUNNER",
+      "address": "0x230442C8133A9efb4c278b3723043444749Ca08b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x230442C8133A9efb4c278b3723043444749Ca08b.png"
+    },
+    {
+      "name": "Ravenhood",
+      "symbol": "RVH",
+      "address": "0x96765066f6a040a21EB027167D2315B707c82633",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x96765066f6a040a21EB027167D2315B707c82633.png"
+    },
+    {
+      "name": "rwog",
+      "symbol": "RWOG",
+      "address": "0x49a947189125330f1658C65cE30882956Bc9DbDA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x49a947189125330f1658C65cE30882956Bc9DbDA.png"
+    },
+    {
+      "name": "Run Your Money",
+      "symbol": "RYM",
+      "address": "0x516c0878acca15E7eB2f6a401b5B6cd2a0f9f455",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x516c0878acca15E7eB2f6a401b5B6cd2a0f9f455.png"
+    },
+    {
+      "name": "Safevano Wallet",
+      "symbol": "SAFEVANO",
+      "address": "0xe6613D2Bbd5f5C5bb203C36eE414ffaA4a47a977",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xe6613D2Bbd5f5C5bb203C36eE414ffaA4a47a977.png"
+    },
+    {
+      "name": "SANTAHOOD",
+      "symbol": "SANTACOIN",
+      "address": "0x38bb87Cf3E7344A82be7CD671c191f015b97eEe6",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x38bb87Cf3E7344A82be7CD671c191f015b97eEe6.png"
+    },
+    {
+      "name": "EchoStar \u2022 Robinhood Token",
+      "symbol": "SATS",
+      "address": "0x95052ddcd5DC25641657424A8Cf04834997E1730",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x95052ddcd5DC25641657424A8Cf04834997E1730.png"
+    },
+    {
+      "name": "Scry Agent Ward",
+      "symbol": "SCRY",
+      "address": "0xDa2a4b23459e9ca88183e990802be644AcA7C4B0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xDa2a4b23459e9ca88183e990802be644AcA7C4B0.png"
+    },
+    {
+      "name": "watch it grow",
+      "symbol": "seedcoin",
+      "address": "0xD8d1C08A8bA4fc64BAC744f74290B89ADcb6Bf25",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xD8d1C08A8bA4fc64BAC744f74290B89ADcb6Bf25.png"
+    },
+    {
+      "name": "Senkai",
+      "symbol": "Senkai",
+      "address": "0x46cf2cA61505902a4410B3B4242d787cD4737777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x46cf2cA61505902a4410B3B4242d787cD4737777.png"
+    },
+    {
+      "name": "Spice",
+      "symbol": "SFI",
+      "address": "0xE77d354898A44808ff3999947002785CD727BEd5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE77d354898A44808ff3999947002785CD727BEd5.png"
+    },
+    {
+      "name": "iShares 0-3 Month Treasury Bond \u2022 Robinhood Token",
+      "symbol": "SGOV",
+      "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5.png"
+    },
+    {
+      "name": "SHIBCAT",
+      "symbol": "SHIBCAT",
+      "address": "0xac0F333bBEBB62B6d16322650641Bd5eF2B849e5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xac0F333bBEBB62B6d16322650641Bd5eF2B849e5.png"
+    },
+    {
+      "name": "shitcoin",
+      "symbol": "shitcoin",
+      "address": "0x49e34dBB35023D51F981558F54e5523FA9C44b03",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x49e34dBB35023D51F981558F54e5523FA9C44b03.png"
+    },
+    {
+      "name": "Shopify \u2022 Robinhood Token",
+      "symbol": "SHOP",
+      "address": "0xF53F66751B1Eff985311b693531E3290F600c410",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF53F66751B1Eff985311b693531E3290F600c410.png"
+    },
+    {
+      "name": "iShares Silver Trust \u2022 Robinhood Token",
+      "symbol": "SLV",
+      "address": "0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f.png"
+    },
+    {
+      "name": "Slvr",
+      "symbol": "SLVR",
+      "address": "0x791229E3EbD6CFdC3D8157f48722684173C29aD9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x791229E3EbD6CFdC3D8157f48722684173C29aD9.png"
+    },
+    {
+      "name": "Sandisk Corporation \u2022 Robinhood Token",
+      "symbol": "SNDK",
+      "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xB90A19fF0Af67f7779afF50A882A9CfF42446400.png"
+    },
+    {
+      "name": "SoFi Technologies \u2022 Robinhood Token",
+      "symbol": "SOFI",
+      "address": "0x98E75885157C80992A8D41b696D8c9C6Fb30A926",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x98E75885157C80992A8D41b696D8c9C6Fb30A926.png"
+    },
+    {
+      "name": "SPDR S&P 500 ETF Trust \u2022 Robinhood Token",
+      "symbol": "SPY",
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x117cc2133c37B721F49dE2A7a74833232B3B4C0C.png"
+    },
+    {
+      "name": "StonkBroker",
+      "symbol": "STONKBROKER",
+      "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xe934e36A439C94017B64a3FecE66AF12099aBF50.png"
+    },
+    {
+      "name": "STONKS",
+      "symbol": "STONKS",
+      "address": "0xbf72347bacEfE747Eaf48b8A66E38BABad3020A0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xbf72347bacEfE747Eaf48b8A66E38BABad3020A0.png"
+    },
+    {
+      "name": "Dog in a suit",
+      "symbol": "SUIT",
+      "address": "0xeaa9abB805Db03b6859662354aBfE0C2A30902ae",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xeaa9abB805Db03b6859662354aBfE0C2A30902ae.png"
+    },
+    {
+      "name": "Swole Doge",
+      "symbol": "SWOGE",
+      "address": "0xDB87393727b666c43f5aecB03d8B419bA54D9b03",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xDB87393727b666c43f5aecB03d8B419bA54D9b03.png"
+    },
+    {
+      "name": "TrumpAlwaysChickensOut",
+      "symbol": "TACO",
+      "address": "0x9e5e02F5C9ea48931d4e8f488089103e93F925fF",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x9e5e02F5C9ea48931d4e8f488089103e93F925fF.png"
+    },
+    {
+      "name": "tamPons",
+      "symbol": "TAMPONS",
+      "address": "0xC9E7C34fa156a235e8B8601171a543bc9c84a1B9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xC9E7C34fa156a235e8B8601171a543bc9c84a1B9.png"
+    },
+    {
+      "name": "TENDIES",
+      "symbol": "TENDIES",
+      "address": "0x45242320DBB855EeA8Fd36804C6487E10E97FCF9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x45242320DBB855EeA8Fd36804C6487E10E97FCF9.png"
+    },
+    {
+      "name": "Vled Tenov",
+      "symbol": "TENOV",
+      "address": "0x66CEF844f82a461444621F1fCb53efA9ed6DeE18",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x66CEF844f82a461444621F1fCb53efA9ed6DeE18.png"
+    },
+    {
+      "name": "THROBBIN",
+      "symbol": "THROBBIN",
+      "address": "0xe8fB470E0685437d7739BD2AacBA60b228800335",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xe8fB470E0685437d7739BD2AacBA60b228800335.png"
+    },
+    {
+      "name": "Tesla \u2022 Robinhood Token",
+      "symbol": "TSLA",
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x322F0929c4625eD5bAd873c95208D54E1c003b2d.png"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing \u2022 Robinhood Token",
+      "symbol": "TSM",
+      "address": "0x58FfE4a942d3885bAa22D7520691F611EF09e7AA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x58FfE4a942d3885bAa22D7520691F611EF09e7AA.png"
+    },
+    {
+      "name": "Take-Two Interactive Software \u2022 Robinhood Token",
+      "symbol": "TTWO",
+      "address": "0x5e81213613b6B86EaB4c6c50d718d34359459786",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5e81213613b6B86EaB4c6c50d718d34359459786.png"
+    },
+    {
+      "name": "Tygr",
+      "symbol": "TYGR",
+      "address": "0x69984Ad3322300039f2855f81C44Dbc532EFe744",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x69984Ad3322300039f2855f81C44Dbc532EFe744.png"
+    },
+    {
+      "name": "UPS \u2022 Robinhood Token",
+      "symbol": "UPS",
+      "address": "0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2.png"
+    },
+    {
+      "name": "USA Rare Earth \u2022 Robinhood Token",
+      "symbol": "USAR",
+      "address": "0xd917B029C761D264c6A312BBbcDA868658eF86a6",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xd917B029C761D264c6A312BBbcDA868658eF86a6.png"
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+    },
+    {
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      "chainId": 4663,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168.png"
+    },
+    {
+      "name": "unstable coin",
+      "symbol": "USDUC",
+      "address": "0xBbb8Ef3181661512CEAB66e0B213C29211B24b6c",
+      "chainId": 4663,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xBbb8Ef3181661512CEAB66e0B213C29211B24b6c.png"
+    },
+    {
+      "name": "United States Oil Fund \u2022 Robinhood Token",
+      "symbol": "USO",
+      "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344.png"
+    },
+    {
+      "name": "utopiadet",
+      "symbol": "utopia",
+      "address": "0x164D9da79722c5294369e79807980E0Bff257777",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x164D9da79722c5294369e79807980E0Bff257777.png"
+    },
+    {
+      "name": "ProjectVex",
+      "symbol": "VEX",
+      "address": "0x8Ff92566f2e81BDd68EDfAa8cde73942A723796b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8Ff92566f2e81BDd68EDfAa8cde73942A723796b.png"
+    },
+    {
+      "name": "Vibing Cat",
+      "symbol": "VIBE CAT",
+      "address": "0x2355431b83B1A8E40172D099d90243D8D666b56B",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x2355431b83B1A8E40172D099d90243D8D666b56B.png"
+    },
+    {
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31.png"
+    },
+    {
+      "name": "Robinvista",
+      "symbol": "VISTA",
+      "address": "0xC35968C7F5475bb03a43C7382526F4118E01C0de",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xC35968C7F5475bb03a43C7382526F4118E01C0de.png"
+    },
+    {
+      "name": "The Green Bull",
+      "symbol": "VLAD",
+      "address": "0x31BE8f7485e36928C9De86566c62da82d4B6BF81",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x31BE8f7485e36928C9De86566c62da82d4B6BF81.png"
+    },
+    {
+      "name": "VladDog",
+      "symbol": "VladDog",
+      "address": "0xa4874f62c8826E19cF8691BCAbd02fe1a0B7401F",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa4874f62c8826E19cF8691BCAbd02fe1a0B7401F.png"
+    },
+    {
+      "name": "Hoodwatch",
+      "symbol": "WATCH",
+      "address": "0xCA70d457418b90493E5735De6eC4410C3945498E",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xCA70d457418b90493E5735De6eC4410C3945498E.png"
+    },
+    {
+      "name": "Wrapped BESC",
+      "symbol": "WBESC",
+      "address": "0xa3054F28c48b387D4825Be8f3b79eD161ABC5405",
+      "chainId": 4663,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa3054F28c48b387D4825Be8f3b79eD161ABC5405.png"
+    },
+    {
+      "name": "Workday \u2022 Robinhood Token",
+      "symbol": "WDAY",
+      "address": "0x82DA4646242e1D962e96e932269Dc644c94a9CaA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x82DA4646242e1D962e96e932269Dc644c94a9CaA.png"
+    },
+    {
+      "name": "Wen Lambo",
+      "symbol": "WEN",
+      "address": "0xA80eb66b3E0CF66ccB46f8b8C9e7ff5803eEb820",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xA80eb66b3E0CF66ccB46f8b8C9e7ff5803eEb820.png"
+    },
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73.png"
+    },
+    {
+      "name": "RobinWifHat",
+      "symbol": "WIF",
+      "address": "0xE49A1C3033EcC6b804bc423021D3F71F1A3e0F9B",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xE49A1C3033EcC6b804bc423021D3F71F1A3e0F9B.png"
+    },
+    {
+      "name": "wire bot",
+      "symbol": "wire",
+      "address": "0x8ECEA3d0E648DB646d824AA51EedeB16aC3d6878",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x8ECEA3d0E648DB646d824AA51EedeB16aC3d6878.png"
+    },
+    {
+      "name": "WISHBONE",
+      "symbol": "WISHBONE",
+      "address": "0x77581054581B9c525E7dd7a0155DE43867532d03",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x77581054581B9c525E7dd7a0155DE43867532d03.png"
+    },
+    {
+      "name": "Wojak",
+      "symbol": "WOJAK",
+      "address": "0xaCE55FE98Bab14366dD49aB5AA5dF76aA11A3c6f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xaCE55FE98Bab14366dD49aB5AA5dF76aA11A3c6f.png"
+    },
+    {
+      "name": "Sherwood Protocol",
+      "symbol": "WOOD",
+      "address": "0xF8BC08092C06dB6148114DCf82AF881F1085f92b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF8BC08092C06dB6148114DCf82AF881F1085f92b.png"
+    },
+    {
+      "name": "Shibinhood",
+      "symbol": "WOOF",
+      "address": "0xe15db7C8547A0adD11eB26A700246cCa08aEfCe5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xe15db7C8547A0adD11eB26A700246cCa08aEfCe5.png"
+    },
+    {
+      "name": "one life, its worth an attempt",
+      "symbol": "worth",
+      "address": "0xfB1bcB6817F7b8fA86896D3253b16aEB7Bd6A5A8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xfB1bcB6817F7b8fA86896D3253b16aEB7Bd6A5A8.png"
+    },
+    {
+      "name": "Xeno",
+      "symbol": "XENO",
+      "address": "0xF11168Ec379EfD20a35006f1D44Cc5F9e4E94e67",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xF11168Ec379EfD20a35006f1D44Cc5F9e4E94e67.png"
+    },
+    {
+      "name": "ExxonMobil Holdings Corporation \u2022 Robinhood Token",
+      "symbol": "XOM",
+      "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5.png"
+    },
+    {
+      "name": "Yarrow",
+      "symbol": "Yarrow",
+      "address": "0x5d6Fa71583E40d6a40AB09Cd071F24F6603b0970",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x5d6Fa71583E40d6a40AB09Cd071F24F6603b0970.png"
+    },
+    {
+      "name": "YOINK",
+      "symbol": "YOINK",
+      "address": "0xA2718f80f1FE0CdeC69c9023ee006807dD487a8c",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xA2718f80f1FE0CdeC69c9023ee006807dD487a8c.png"
+    },
+    {
+      "name": "YOLO",
+      "symbol": "YOLO",
+      "address": "0x62C71cd34a52c30d894419CBcc55Db2aFA8032eA",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x62C71cd34a52c30d894419CBcc55Db2aFA8032eA.png"
+    },
+    {
+      "name": "Yorozu",
+      "symbol": "YORO",
+      "address": "0x64abFc878dC340bBf33BaE4AAf39ed33Fb1828c0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x64abFc878dC340bBf33BaE4AAf39ed33Fb1828c0.png"
+    },
+    {
+      "name": "Zoom \u2022 Robinhood Token",
+      "symbol": "ZM",
+      "address": "0x44c4F142009036cF477eD2d09932051843137CF1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x44c4F142009036cF477eD2d09932051843137CF1.png"
+    },
+    {
+      "name": "Zscaler \u2022 Robinhood Token",
+      "symbol": "ZS",
+      "address": "0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7.png"
+    },
+    {
+      "name": "\ud83e\udeb6",
+      "symbol": "\ud83e\udeb6",
+      "address": "0xa870f8C7CAE9705194a141b0C2964B6C79ee3742",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa870f8C7CAE9705194a141b0C2964B6C79ee3742.png"
+    }
+  ]
+}
