@@ -1,10 +1,10 @@
 {
   "name": "9mm Robinhood Tokens",
-  "timestamp": "2026-08-04T18:22:00.000Z",
+  "timestamp": "2026-08-17T19:12:49.292Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
   "tokens": [
@@ -1735,6 +1735,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0xa870f8C7CAE9705194a141b0C2964B6C79ee3742.png"
+    },
+    {
+      "chainId": 4663,
+      "name": "PRINTER",
+      "address": "0x85a574f2fF0795685F58d1D7B0D4b51F148Ac489",
+      "symbol": "PRINTER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x85a574f2fF0795685F58d1D7B0D4b51F148Ac489.png"
     }
   ]
 }
