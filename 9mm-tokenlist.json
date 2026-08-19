@@ -1,10 +1,10 @@
 {
   "name": "9mm default Tokens List",
-  "timestamp": "2026-06-22T22:26:32.000Z",
+  "timestamp": "2026-08-19T01:11:34.190Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 15
+    "patch": 16
   },
   "tokens": [
     {
@@ -8886,6 +8886,14 @@
       "symbol": "Pewswap5",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xE318a5c4bFEBb23DA12A47ac429B8325B7D45B80.png"
+    },
+    {
+      "chainId": 369,
+      "name": "GoldPay",
+      "address": "0x3ebE8390B69Bbc1Cd130C9359eAAd0c5220CD41c",
+      "symbol": "GOLDPAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3ebE8390B69Bbc1Cd130C9359eAAd0c5220CD41c.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/bc312698a8a54c33f1b501eb504ddde539e8a6db/9mm.png"
