@@ -83,7 +83,7 @@
       "chainId": 369,
       "name": "Dai from Ethereum",
       "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
-      "symbol": "DAI",
+      "symbol": "eDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
     },
@@ -91,7 +91,7 @@
       "chainId": 369,
       "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
       "name": "USD Coin from Ethereum",
-      "symbol": "USDC",
+      "symbol": "eUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
     },
@@ -99,7 +99,7 @@
       "chainId": 369,
       "name": "Tether USD from Ethereum",
       "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
-      "symbol": "USDT",
+      "symbol": "eUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
     },
@@ -107,7 +107,7 @@
       "chainId": 369,
       "name": "Wrapped Ether from Ethereum",
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
-      "symbol": "WETH",
+      "symbol": "eWETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
     },
@@ -115,7 +115,7 @@
       "chainId": 369,
       "name": "Wrapped BTC from Ethereum",
       "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
-      "symbol": "WBTC",
+      "symbol": "eWBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
     },
@@ -187,7 +187,7 @@
       "chainId": 369,
       "name": "Icosa from Ethereum",
       "address": "0xb4d363D5dF85f0fBc746c236Fd410d82BF856f78",
-      "symbol": "ICSA",
+      "symbol": "eICSA",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xb4d363D5dF85f0fBc746c236Fd410d82BF856f78.png"
     },
@@ -243,7 +243,7 @@
       "chainId": 369,
       "name": "Solana from Ethereum",
       "address": "0x1c3C50bd18E3f0C7c23666b8e8a843238A359386",
-      "symbol": "SOL",
+      "symbol": "eSOL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1c3C50bd18E3f0C7c23666b8e8a843238A359386.png"
     },
@@ -355,7 +355,7 @@
       "chainId": 369,
       "name": "9INCH from Ethereum",
       "address": "0xeD22494279e0F3F1Ab491F823c6eC4055afeB21F",
-      "symbol": "9INCH",
+      "symbol": "e9INCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xeD22494279e0F3F1Ab491F823c6eC4055afeB21F.png"
     },
@@ -451,7 +451,7 @@
       "chainId": 369,
       "name": "PoorPleb from Ethereum",
       "address": "0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E",
-      "symbol": "PP",
+      "symbol": "ePP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E.png"
     },
@@ -587,7 +587,7 @@
       "chainId": 369,
       "name": "Uniswap from Ethereum",
       "address": "0x3f105121A10247DE9a92e818554DD5Fcd2063AE7",
-      "symbol": "UNI",
+      "symbol": "eUNI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3f105121A10247DE9a92e818554DD5Fcd2063AE7.png"
     },
@@ -595,7 +595,7 @@
       "chainId": 369,
       "name": "ChainLink Token from Ethereum",
       "address": "0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1",
-      "symbol": "LINK",
+      "symbol": "eLINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1.png"
     },
@@ -2411,7 +2411,7 @@
       "chainId": 369,
       "name": "Pulsar from Ethereum",
       "address": "0x69C96Bb512A386a538ab52C87F34aCAf9c76D05a",
-      "symbol": "PULSAR",
+      "symbol": "ePULSAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x69C96Bb512A386a538ab52C87F34aCAf9c76D05a.png"
     },
@@ -2419,7 +2419,7 @@
       "chainId": 369,
       "name": "TITAN X from Ethereum",
       "address": "0xBE3381E831C035169B92EF0Cc4759C570528577d",
-      "symbol": "TITANX",
+      "symbol": "eTITANX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xBE3381E831C035169B92EF0Cc4759C570528577d.png"
     },
@@ -4515,7 +4515,7 @@
       "chainId": 369,
       "address": "0x3Ab667c153B8DD2248bb96E7A2e1575197667784",
       "name": "SHIBA INU from Ethereum",
-      "symbol": "SHIB",
+      "symbol": "eSHIB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3Ab667c153B8DD2248bb96E7A2e1575197667784.png"
     },
@@ -4531,7 +4531,7 @@
       "chainId": 369,
       "address": "0xB7Dd55C4858F93B819435152D1fFA3Cf9561FFf5",
       "name": "LIDO DAO Token from Ethereum",
-      "symbol": "LDO",
+      "symbol": "eLDO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xB7Dd55C4858F93B819435152D1fFA3Cf9561FFf5.png"
     },
@@ -4539,7 +4539,7 @@
       "chainId": 369,
       "address": "0xeC7caf2f5B4ec2574f214824D7F1eCEf6fe6032b",
       "name": "ApeCoin from Ethereum",
-      "symbol": "APE",
+      "symbol": "eAPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xeC7caf2f5B4ec2574f214824D7F1eCEf6fe6032b.png"
     },
@@ -4547,7 +4547,7 @@
       "chainId": 369,
       "address": "0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371",
       "name": "Future T.I.M.E. Dividend from Ethereum",
-      "symbol": "FUTURE",
+      "symbol": "eFUTURE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371.png"
     },
@@ -5539,7 +5539,7 @@
       "chainId": 369,
       "address": "0xfbd5CBCaE1Aa264F92E6868aDE836c5077dB1479",
       "name": "H420 from Ethereum",
-      "symbol": "H420",
+      "symbol": "eH420",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xfbd5CBCaE1Aa264F92E6868aDE836c5077dB1479.png"
     },
@@ -6387,7 +6387,7 @@
       "chainId": 369,
       "address": "0xD31d5463991f61B6e53b9b5ca574fA731F94991e",
       "name": "Tether Gold from Ethereum",
-      "symbol": "XAUt",
+      "symbol": "eXAUt",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xD31d5463991f61B6e53b9b5ca574fA731F94991e.png"
     },
@@ -6459,7 +6459,7 @@
       "chainId": 369,
       "address": "0x8b84bE5ED8071F6ACA12aF3311cf41C3bc673B84",
       "name": "Savings USDS from Ethereum",
-      "symbol": "sUSDS",
+      "symbol": "esUSDS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8b84bE5ED8071F6ACA12aF3311cf41C3bc673B84.png"
     },
@@ -6603,7 +6603,7 @@
       "chainId": 369,
       "address": "0x0480b383E9111cA05116AEA6d35b891c708D57Ec",
       "name": "Basic Attention Token from Ethereum",
-      "symbol": "BAT",
+      "symbol": "eBAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0480b383E9111cA05116AEA6d35b891c708D57Ec.png"
     },
@@ -6619,7 +6619,7 @@
       "chainId": 369,
       "address": "0x062BD527ec96d42BE897A0E1c840B5ba912b890f",
       "name": "Cult DAO from Ethereum",
-      "symbol": "CULT",
+      "symbol": "eCULT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x062BD527ec96d42BE897A0E1c840B5ba912b890f.png"
     },
@@ -6643,7 +6643,7 @@
       "chainId": 369,
       "address": "0x09b1d3e1cB861848f049Ed448b2461D39Fd18674",
       "name": "BitTorrent from Ethereum",
-      "symbol": "BTT",
+      "symbol": "eBTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x09b1d3e1cB861848f049Ed448b2461D39Fd18674.png"
     },
@@ -6667,7 +6667,7 @@
       "chainId": 369,
       "address": "0x0b8008a38fdbBDDA214De411c5bB7Bda59f4a960",
       "name": "Quant from Ethereum",
-      "symbol": "QNT",
+      "symbol": "eQNT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0b8008a38fdbBDDA214De411c5bB7Bda59f4a960.png"
     },
@@ -6691,7 +6691,7 @@
       "chainId": 369,
       "address": "0x0f3C6134F4022D85127476BC4d3787860E5C5569",
       "name": "Maximus Trio from Ethereum",
-      "symbol": "TRIO",
+      "symbol": "eTRIO",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x0f3C6134F4022D85127476BC4d3787860E5C5569.png"
     },
@@ -6707,7 +6707,7 @@
       "chainId": 369,
       "address": "0x10f82E0BC964df9Aab1BBCC4Dc605e2e84AB5f2e",
       "name": "TrueUSD from Ethereum",
-      "symbol": "TUSD",
+      "symbol": "eTUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x10f82E0BC964df9Aab1BBCC4Dc605e2e84AB5f2e.png"
     },
@@ -6763,7 +6763,7 @@
       "chainId": 369,
       "address": "0x1658b6e5D74cdC02a7e410cF877BeD81029F5D01",
       "name": "Curve DAO Token from Ethereum",
-      "symbol": "CRV",
+      "symbol": "eCRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1658b6e5D74cdC02a7e410cF877BeD81029F5D01.png"
     },
@@ -6787,7 +6787,7 @@
       "chainId": 369,
       "address": "0x1835c7aBB03037FE5EeED3d8937f7693277D2e7D",
       "name": "Jesus Coin from Ethereum",
-      "symbol": "JESUS",
+      "symbol": "eJESUS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1835c7aBB03037FE5EeED3d8937f7693277D2e7D.png"
     },
@@ -6819,7 +6819,7 @@
       "chainId": 369,
       "address": "0x1aaABae1A00EE8A6aEadAC6721f5655136ca7cf3",
       "name": "Free Coin from Ethereum",
-      "symbol": "FREE",
+      "symbol": "eFREE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1aaABae1A00EE8A6aEadAC6721f5655136ca7cf3.png"
     },
@@ -6827,7 +6827,7 @@
       "chainId": 369,
       "address": "0x1b1a6E77f5E575A97eaFCA31913B2Fc5502E8b84",
       "name": "MAGA from Ethereum",
-      "symbol": "TRUMP",
+      "symbol": "eTRUMP",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x1b1a6E77f5E575A97eaFCA31913B2Fc5502E8b84.png"
     },
@@ -6883,7 +6883,7 @@
       "chainId": 369,
       "address": "0x2640412a7D0a30B6f911829B772972109d465f0D",
       "name": "PancakeSwap Token from Ethereum",
-      "symbol": "Cake",
+      "symbol": "eCake",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2640412a7D0a30B6f911829B772972109d465f0D.png"
     },
@@ -6891,7 +6891,7 @@
       "chainId": 369,
       "address": "0x2674f2A111924056b241e442C9B3B5CF588794ED",
       "name": "Render Token from Ethereum",
-      "symbol": "RNDR",
+      "symbol": "eRNDR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2674f2A111924056b241e442C9B3B5CF588794ED.png"
     },
@@ -6923,7 +6923,7 @@
       "chainId": 369,
       "address": "0x2Ba4014A6eA55b2fd9dD278914322301Ed8fCc2A",
       "name": "Wise Token from Ethereum",
-      "symbol": "WISE",
+      "symbol": "eWISE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2Ba4014A6eA55b2fd9dD278914322301Ed8fCc2A.png"
     },
@@ -6931,7 +6931,7 @@
       "chainId": 369,
       "address": "0x2Ee5004e2326Fa494b467181C78e18AB8E9bB9CE",
       "name": "Axie Infinity Shard from Ethereum",
-      "symbol": "AXS",
+      "symbol": "eAXS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2Ee5004e2326Fa494b467181C78e18AB8E9bB9CE.png"
     },
@@ -6939,7 +6939,7 @@
       "chainId": 369,
       "address": "0x2F347e0B8d6aF6065240983F8aACC19d06cb94A4",
       "name": "Aave Token from Ethereum",
-      "symbol": "AAVE",
+      "symbol": "eAAVE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x2F347e0B8d6aF6065240983F8aACC19d06cb94A4.png"
     },
@@ -7019,7 +7019,7 @@
       "chainId": 369,
       "address": "0x34979853Ec38fD32478146CA139F6FD5E63ED45d",
       "name": "Wrapped XRP from Ethereum",
-      "symbol": "WXRP",
+      "symbol": "eWXRP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x34979853Ec38fD32478146CA139F6FD5E63ED45d.png"
     },
@@ -7051,7 +7051,7 @@
       "chainId": 369,
       "address": "0x363446fD82e90Ef03A9965A3C206f5995690faFb",
       "name": "Optimus from Ethereum",
-      "symbol": "OPTIMUS",
+      "symbol": "eOPTIMUS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x363446fD82e90Ef03A9965A3C206f5995690faFb.png"
     },
@@ -7059,7 +7059,7 @@
       "chainId": 369,
       "address": "0x38a3D6C44CFc5FB66cCe59185ef3399f1D750A4c",
       "name": "Paxos Gold from Ethereum",
-      "symbol": "PAXG",
+      "symbol": "ePAXG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x38a3D6C44CFc5FB66cCe59185ef3399f1D750A4c.png"
     },
@@ -7107,7 +7107,7 @@
       "chainId": 369,
       "address": "0x3EC4f57EFef9292A7b7Df7894b7f2Acf09FD26D5",
       "name": "KEK from Ethereum",
-      "symbol": "KEKE",
+      "symbol": "eKEKE",
       "decimals": 7,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3EC4f57EFef9292A7b7Df7894b7f2Acf09FD26D5.png"
     },
@@ -7115,7 +7115,7 @@
       "chainId": 369,
       "address": "0x3Fbc7E66500d6A53d8b66F1097Ab8B42f161619f",
       "name": "Gala Music from Ethereum",
-      "symbol": "$MUSIC",
+      "symbol": "e$MUSIC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x3Fbc7E66500d6A53d8b66F1097Ab8B42f161619f.png"
     },
@@ -7139,7 +7139,7 @@
       "chainId": 369,
       "address": "0x40D3dE7fa72a0CFD753D004cD1e8CF28B74f85d2",
       "name": "Coinbase Wrapped Staked ETH from Ethereum",
-      "symbol": "cbETH",
+      "symbol": "ecbETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x40D3dE7fa72a0CFD753D004cD1e8CF28B74f85d2.png"
     },
@@ -7195,7 +7195,7 @@
       "chainId": 369,
       "address": "0x4854492308C1c5116FBb980d1e906FdC22913020",
       "name": "Ethereum Name Service from Ethereum",
-      "symbol": "ENS",
+      "symbol": "eENS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4854492308C1c5116FBb980d1e906FdC22913020.png"
     },
@@ -7203,7 +7203,7 @@
       "chainId": 369,
       "address": "0x4914Abb9892dE7858b03ECc2AE092C5e295D05aC",
       "name": "yearn.finance from Ethereum",
-      "symbol": "YFI",
+      "symbol": "eYFI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4914Abb9892dE7858b03ECc2AE092C5e295D05aC.png"
     },
@@ -7219,7 +7219,7 @@
       "chainId": 369,
       "address": "0x4C1566554cD8e112646b242b8A42496b228AC7D5",
       "name": "Jerome Powell from Ethereum",
-      "symbol": "$POWELL",
+      "symbol": "e$POWELL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4C1566554cD8e112646b242b8A42496b228AC7D5.png"
     },
@@ -7267,7 +7267,7 @@
       "chainId": 369,
       "address": "0x4F8a5fcc0DdA408D4296B65e3F8c171AB5399f0c",
       "name": "Dogey-Inu from Ethereum",
-      "symbol": "DINU",
+      "symbol": "eDINU",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4F8a5fcc0DdA408D4296B65e3F8c171AB5399f0c.png"
     },
@@ -7291,7 +7291,7 @@
       "chainId": 369,
       "address": "0x4f68A0db1BBFD411C26A9BB8b4e486Ebd8aaef5a",
       "name": "Gala from Ethereum",
-      "symbol": "GALA",
+      "symbol": "eGALA",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4f68A0db1BBFD411C26A9BB8b4e486Ebd8aaef5a.png"
     },
@@ -7315,7 +7315,7 @@
       "chainId": 369,
       "address": "0x5075830d32D9E68E3e8F74B052f2f420249930be",
       "name": "SOS from Ethereum",
-      "symbol": "SOS",
+      "symbol": "eSOS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5075830d32D9E68E3e8F74B052f2f420249930be.png"
     },
@@ -7363,7 +7363,7 @@
       "chainId": 369,
       "address": "0x551393e8FD143CC2a099041488a26F9417596a1A",
       "name": "Compound from Ethereum",
-      "symbol": "COMP",
+      "symbol": "eCOMP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x551393e8FD143CC2a099041488a26F9417596a1A.png"
     },
@@ -7379,7 +7379,7 @@
       "chainId": 369,
       "address": "0x559d01625D27fD16e5A7BE1c665a3070c0F79861",
       "name": "Wrapped BNB from Ethereum",
-      "symbol": "WBNB",
+      "symbol": "eWBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x559d01625D27fD16e5A7BE1c665a3070c0F79861.png"
     },
@@ -7387,7 +7387,7 @@
       "chainId": 369,
       "address": "0x56666761d1AeA4c10397Ba1368BD2fA6671D8736",
       "name": "Milady from Ethereum",
-      "symbol": "LADYS",
+      "symbol": "eLADYS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x56666761d1AeA4c10397Ba1368BD2fA6671D8736.png"
     },
@@ -7395,7 +7395,7 @@
       "chainId": 369,
       "address": "0x5708a510E0DC39219F24D4F397F211Cfea70e43f",
       "name": "Savings Dai from Ethereum",
-      "symbol": "sDAI",
+      "symbol": "esDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5708a510E0DC39219F24D4F397F211Cfea70e43f.png"
     },
@@ -7411,7 +7411,7 @@
       "chainId": 369,
       "address": "0x579e9e0D22c2c092b2C6091F33A389b5D929Eb06",
       "name": "CRO from Ethereum",
-      "symbol": "CRO",
+      "symbol": "eCRO",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x579e9e0D22c2c092b2C6091F33A389b5D929Eb06.png"
     },
@@ -7443,7 +7443,7 @@
       "chainId": 369,
       "address": "0x5870BFe3681B51582155e803F15dc2137D4d3C61",
       "name": "PulseDogecoin from Ethereum",
-      "symbol": "PLSD",
+      "symbol": "ePLSD",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5870BFe3681B51582155e803F15dc2137D4d3C61.png"
     },
@@ -7475,7 +7475,7 @@
       "chainId": 369,
       "address": "0x5CA72B597738e28a06C9486b748ac54534Aa6D3b",
       "name": "Illuvium from Ethereum",
-      "symbol": "ILV",
+      "symbol": "eILV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5CA72B597738e28a06C9486b748ac54534Aa6D3b.png"
     },
@@ -7499,7 +7499,7 @@
       "chainId": 369,
       "address": "0x5c23EDE482f7d5FfDBc90b15c70edD48D38DAB94",
       "name": "Rocket Pool Protocol from Ethereum",
-      "symbol": "RPL",
+      "symbol": "eRPL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5c23EDE482f7d5FfDBc90b15c70edD48D38DAB94.png"
     },
@@ -7515,7 +7515,7 @@
       "chainId": 369,
       "address": "0x5e07ed366aD0254Fd08eEe6b48f33457AdD8FFF5",
       "name": "Fetch from Ethereum",
-      "symbol": "FET",
+      "symbol": "eFET",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5e07ed366aD0254Fd08eEe6b48f33457AdD8FFF5.png"
     },
@@ -7539,7 +7539,7 @@
       "chainId": 369,
       "address": "0x5fC23d2ca78e08772dF041F9907A4E363d21D2e0",
       "name": "Metis Token from Ethereum",
-      "symbol": "Metis",
+      "symbol": "eMetis",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x5fC23d2ca78e08772dF041F9907A4E363d21D2e0.png"
     },
@@ -7547,7 +7547,7 @@
       "chainId": 369,
       "address": "0x602e867ABfBb0d4B81a6B99AFB0595E7Beae5104",
       "name": "Decentralized USD from Ethereum",
-      "symbol": "USDD",
+      "symbol": "eUSDD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x602e867ABfBb0d4B81a6B99AFB0595E7Beae5104.png"
     },
@@ -7555,7 +7555,7 @@
       "chainId": 369,
       "address": "0x61223cA0eBaA111C249e0627573e0269C1bf915F",
       "name": "Euro Tether from Ethereum",
-      "symbol": "EURT",
+      "symbol": "eEURT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x61223cA0eBaA111C249e0627573e0269C1bf915F.png"
     },
@@ -7611,7 +7611,7 @@
       "chainId": 369,
       "address": "0x6813abE7D5C6E9218da15Fa760E6fF1FDE1ead52",
       "name": "uP from Ethereum",
-      "symbol": "uP",
+      "symbol": "euP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6813abE7D5C6E9218da15Fa760E6fF1FDE1ead52.png"
     },
@@ -7643,7 +7643,7 @@
       "chainId": 369,
       "address": "0x6C2C9Ae9fF10332F3e055A7a620522fAdCbe0a2b",
       "name": "Rollbit Coin from Ethereum",
-      "symbol": "RLB",
+      "symbol": "eRLB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6C2C9Ae9fF10332F3e055A7a620522fAdCbe0a2b.png"
     },
@@ -7651,7 +7651,7 @@
       "chainId": 369,
       "address": "0x6E54d97C50D48c907f2b16090AB9Da9ee6Cae69D",
       "name": "Application Specific Internet Coin from Ethereum",
-      "symbol": "ASIC",
+      "symbol": "eASIC",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6E54d97C50D48c907f2b16090AB9Da9ee6Cae69D.png"
     },
@@ -7667,7 +7667,7 @@
       "chainId": 369,
       "address": "0x6d4E84eE2a4c83D10dE9FE2aafE22351B70b9Dcb",
       "name": "1INCH Token from Ethereum",
-      "symbol": "1INCH",
+      "symbol": "e1INCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x6d4E84eE2a4c83D10dE9FE2aafE22351B70b9Dcb.png"
     },
@@ -7691,7 +7691,7 @@
       "chainId": 369,
       "address": "0x70E788a6bECEf0DF970c72Cfa0d2A34FA303D99B",
       "name": "JasmyCoin from Ethereum",
-      "symbol": "JASMY",
+      "symbol": "eJASMY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x70E788a6bECEf0DF970c72Cfa0d2A34FA303D99B.png"
     },
@@ -7699,7 +7699,7 @@
       "chainId": 369,
       "address": "0x73Ea1E6538267d5A3E3863d53C01Ba87Fc8fcDAb",
       "name": "Matic Token from Ethereum",
-      "symbol": "MATIC",
+      "symbol": "eMATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x73Ea1E6538267d5A3E3863d53C01Ba87Fc8fcDAb.png"
     },
@@ -7731,7 +7731,7 @@
       "chainId": 369,
       "address": "0x791367770E068208104fc1B5C1E15F3F5f4d143d",
       "name": "Skol! from Ethereum",
-      "symbol": "SKOL",
+      "symbol": "eSKOL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x791367770E068208104fc1B5C1E15F3F5f4d143d.png"
     },
@@ -7739,7 +7739,7 @@
       "chainId": 369,
       "address": "0x7A437D8464700888B8986684334dE30727B180Ce",
       "name": "Mog Coin from Ethereum",
-      "symbol": "Mog",
+      "symbol": "eMog",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x7A437D8464700888B8986684334dE30727B180Ce.png"
     },
@@ -7755,7 +7755,7 @@
       "chainId": 369,
       "address": "0x7CBeD8A94FAE9F05E04e8eA2fFF3faC6904A02F3",
       "name": "HustleBot from Ethereum",
-      "symbol": "Hustle",
+      "symbol": "eHustle",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x7CBeD8A94FAE9F05E04e8eA2fFF3faC6904A02F3.png"
     },
@@ -7803,7 +7803,7 @@
       "chainId": 369,
       "address": "0x80A93D66e5782fFa9D2AaE440cc66FE31084b3ce",
       "name": "Decentraland MANA from Ethereum",
-      "symbol": "MANA",
+      "symbol": "eMANA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x80A93D66e5782fFa9D2AaE440cc66FE31084b3ce.png"
     },
@@ -7811,7 +7811,7 @@
       "chainId": 369,
       "address": "0x80D72fe6b2498fd5404c80c780AE923cEdDfd80c",
       "name": "Fantom Token from Ethereum",
-      "symbol": "FTM",
+      "symbol": "eFTM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x80D72fe6b2498fd5404c80c780AE923cEdDfd80c.png"
     },
@@ -7827,7 +7827,7 @@
       "chainId": 369,
       "address": "0x811d2059Af48E5f5E2F36d7be8011D0f9a8EAF34",
       "name": "SushiToken from Ethereum",
-      "symbol": "SUSHI",
+      "symbol": "eSUSHI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x811d2059Af48E5f5E2F36d7be8011D0f9a8EAF34.png"
     },
@@ -7851,7 +7851,7 @@
       "chainId": 369,
       "address": "0x83599e84c55c2D9d49949717CcB81A02E37949d6",
       "name": "Dogelon from Ethereum",
-      "symbol": "ELON",
+      "symbol": "eELON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x83599e84c55c2D9d49949717CcB81A02E37949d6.png"
     },
@@ -7907,7 +7907,7 @@
       "chainId": 369,
       "address": "0x8924f56df76CA9e7babB53489D7bEF4fb7caFF19",
       "name": "Maximus Lucky from Ethereum",
-      "symbol": "LUCKY",
+      "symbol": "eLUCKY",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8924f56df76CA9e7babB53489D7bEF4fb7caFF19.png"
     },
@@ -7923,7 +7923,7 @@
       "chainId": 369,
       "address": "0x8F8280ee0F5365A8Dc1a7e7071eD4DA9d82235f2",
       "name": "HarryPotterObamaSonic10Inu from Ethereum",
-      "symbol": "BITCOIN",
+      "symbol": "eBITCOIN",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8F8280ee0F5365A8Dc1a7e7071eD4DA9d82235f2.png"
     },
@@ -7931,7 +7931,7 @@
       "chainId": 369,
       "address": "0x8bC7eE537e892828C80bf36336891D1Bc38C2647",
       "name": "Wrapped AVAX from Ethereum",
-      "symbol": "WAVAX",
+      "symbol": "eWAVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8bC7eE537e892828C80bf36336891D1Bc38C2647.png"
     },
@@ -7939,7 +7939,7 @@
       "chainId": 369,
       "address": "0x8e055Da182D7E91908D32C1e60380a1E9E6bE043",
       "name": "Worldcoin from Ethereum",
-      "symbol": "WLD",
+      "symbol": "eWLD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x8e055Da182D7E91908D32C1e60380a1E9E6bE043.png"
     },
@@ -7987,7 +7987,7 @@
       "chainId": 369,
       "address": "0x93cf33CD453CfEF4bc8FDb279f69B0e49121A65c",
       "name": "Frax from Ethereum",
-      "symbol": "FRAX",
+      "symbol": "eFRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x93cf33CD453CfEF4bc8FDb279f69B0e49121A65c.png"
     },
@@ -8011,7 +8011,7 @@
       "chainId": 369,
       "address": "0x98eb4c6dEC9BF149baE1321eA58fF143714bD5E4",
       "name": "FLOKI from Ethereum",
-      "symbol": "FLOKI",
+      "symbol": "eFLOKI",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x98eb4c6dEC9BF149baE1321eA58fF143714bD5E4.png"
     },
@@ -8035,7 +8035,7 @@
       "chainId": 369,
       "address": "0x9B2c5932f806AcD291bf7C78183f11cf0771672c",
       "name": "Graph Token from Ethereum",
-      "symbol": "GRT",
+      "symbol": "eGRT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x9B2c5932f806AcD291bf7C78183f11cf0771672c.png"
     },
@@ -8067,7 +8067,7 @@
       "chainId": 369,
       "address": "0x9e6C22C15A3292063689Aa45a4683Ae1655d5240",
       "name": "More from Ethereum",
-      "symbol": "MORE",
+      "symbol": "eMORE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x9e6C22C15A3292063689Aa45a4683Ae1655d5240.png"
     },
@@ -8099,7 +8099,7 @@
       "chainId": 369,
       "address": "0xA86B8f6860d91fD5AfF9Df05E4306ce6cbB3BF7B",
       "name": "DragonX from Ethereum",
-      "symbol": "DRAGONX",
+      "symbol": "eDRAGONX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA86B8f6860d91fD5AfF9Df05E4306ce6cbB3BF7B.png"
     },
@@ -8115,7 +8115,7 @@
       "chainId": 369,
       "address": "0xA9CC98E566F12611ab142A4ec15BB260f6c563cf",
       "name": "Liquid staked Ether 2.0 from Ethereum",
-      "symbol": "stETH",
+      "symbol": "estETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xA9CC98E566F12611ab142A4ec15BB260f6c563cf.png"
     },
@@ -8123,7 +8123,7 @@
       "chainId": 369,
       "address": "0xAeb31a146C8968F1cdF324262BCfaD4166800983",
       "name": "Poly Maximus from Ethereum",
-      "symbol": "POLY",
+      "symbol": "ePOLY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xAeb31a146C8968F1cdF324262BCfaD4166800983.png"
     },
@@ -8131,7 +8131,7 @@
       "chainId": 369,
       "address": "0xB2AbA8d9E26825d756A5C6CA96c9f99A3D5f815F",
       "name": "Keep3rV1 from Ethereum",
-      "symbol": "KP3R",
+      "symbol": "eKP3R",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xB2AbA8d9E26825d756A5C6CA96c9f99A3D5f815F.png"
     },
@@ -8243,7 +8243,7 @@
       "chainId": 369,
       "address": "0xCFC4423451fc4d792E2a876C41f6a7CD911e532a",
       "name": "Heroes of Mavia from Ethereum",
-      "symbol": "MAVIA",
+      "symbol": "eMAVIA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xCFC4423451fc4d792E2a876C41f6a7CD911e532a.png"
     },
@@ -8291,7 +8291,7 @@
       "chainId": 369,
       "address": "0xD6C01274B980C6591e7F622dC2a2dC7ee5DDDe46",
       "name": "Synthetix Network Token from Ethereum",
-      "symbol": "SNX",
+      "symbol": "eSNX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xD6C01274B980C6591e7F622dC2a2dC7ee5DDDe46.png"
     },
@@ -8347,7 +8347,7 @@
       "chainId": 369,
       "address": "0xE7E8446108c1c7ca4e9b7D2d699b4596Dc9825D2",
       "name": "FELIX from Ethereum",
-      "symbol": "FELIX",
+      "symbol": "eFELIX",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xE7E8446108c1c7ca4e9b7D2d699b4596Dc9825D2.png"
     },
@@ -8387,7 +8387,7 @@
       "chainId": 369,
       "address": "0xEe0bbc776d1382e0eB9647DfC162922065F7e901",
       "name": "Magic Internet Money from Ethereum",
-      "symbol": "MIM",
+      "symbol": "eMIM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xEe0bbc776d1382e0eB9647DfC162922065F7e901.png"
     },
@@ -8395,7 +8395,7 @@
       "chainId": 369,
       "address": "0xEebE37DBC4694D0369c96c3A6571D1a6553d3d2b",
       "name": "XEN Crypto from Ethereum",
-      "symbol": "XEN",
+      "symbol": "eXEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xEebE37DBC4694D0369c96c3A6571D1a6553d3d2b.png"
     },
@@ -8411,7 +8411,7 @@
       "chainId": 369,
       "address": "0xF2580CF96f3909A96eA36b19815BDAdEb5E09aE4",
       "name": "Turbo from Ethereum",
-      "symbol": "TURBO",
+      "symbol": "eTURBO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xF2580CF96f3909A96eA36b19815BDAdEb5E09aE4.png"
     },
@@ -8499,7 +8499,7 @@
       "chainId": 369,
       "address": "0xa712329708AF665991C3Fcff43BC5734924f7b9A",
       "name": "vEmpire Gamer Token from Ethereum",
-      "symbol": "VEMP",
+      "symbol": "eVEMP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xa712329708AF665991C3Fcff43BC5734924f7b9A.png"
     },
@@ -8507,7 +8507,7 @@
       "chainId": 369,
       "address": "0xa76a654d8aA958B0FC255489742EE9Ff32e0c465",
       "name": "chiliZ from Ethereum",
-      "symbol": "CHZ",
+      "symbol": "eCHZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xa76a654d8aA958B0FC255489742EE9Ff32e0c465.png"
     },
@@ -8515,7 +8515,7 @@
       "chainId": 369,
       "address": "0xa9716b4E2d21ba4B241808B4d159A53277Eb3C3f",
       "name": "LUSD Stablecoin from Ethereum",
-      "symbol": "LUSD",
+      "symbol": "eLUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xa9716b4E2d21ba4B241808B4d159A53277Eb3C3f.png"
     },
@@ -8531,7 +8531,7 @@
       "chainId": 369,
       "address": "0xaAdb63c2CDb9B07761aDC41b52436AeE8296CEbB",
       "name": "HELIOS from Ethereum",
-      "symbol": "HLX",
+      "symbol": "eHLX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xaAdb63c2CDb9B07761aDC41b52436AeE8296CEbB.png"
     },
@@ -8547,7 +8547,7 @@
       "chainId": 369,
       "address": "0xb8c5477546869B5C15128035945D489F23BF077d",
       "name": "TokenFi from Ethereum",
-      "symbol": "TOKEN",
+      "symbol": "eTOKEN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xb8c5477546869B5C15128035945D489F23BF077d.png"
     },
@@ -8587,7 +8587,7 @@
       "chainId": 369,
       "address": "0xbbA12590DFf7DA334bF413493884FD689153b991",
       "name": "Pax Dollar from Ethereum",
-      "symbol": "USDP",
+      "symbol": "eUSDP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xbbA12590DFf7DA334bF413493884FD689153b991.png"
     },
@@ -8603,7 +8603,7 @@
       "chainId": 369,
       "address": "0xbd67072052d7ee32AA926386a07a55A0044CFED7",
       "name": "Gnosis Token from Ethereum",
-      "symbol": "GNO",
+      "symbol": "eGNO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xbd67072052d7ee32AA926386a07a55A0044CFED7.png"
     },
@@ -8611,7 +8611,7 @@
       "chainId": 369,
       "address": "0xc32795a9Fa950eD1186c156871Fcfb151cFE3a61",
       "name": "Where Did The ETH Go? from Ethereum",
-      "symbol": "WHETH",
+      "symbol": "eWHETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xc32795a9Fa950eD1186c156871Fcfb151cFE3a61.png"
     },
@@ -8635,7 +8635,7 @@
       "chainId": 369,
       "address": "0xc948C04e895a317E71eB2721a129D69c690aAf00",
       "name": "Big Bonus Coin from Ethereum",
-      "symbol": "BBC",
+      "symbol": "eBBC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xc948C04e895a317E71eB2721a129D69c690aAf00.png"
     },
@@ -8643,7 +8643,7 @@
       "chainId": 369,
       "address": "0xcB2f11FF7ECa35CC4814910aAFb81d931EBb1D1A",
       "name": "Wait from Ethereum",
-      "symbol": "WAIT",
+      "symbol": "eWAIT",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xcB2f11FF7ECa35CC4814910aAFb81d931EBb1D1A.png"
     },
@@ -8675,7 +8675,7 @@
       "chainId": 369,
       "address": "0xd434B46D7de8B54f7dad81886B5010c269a6F730",
       "name": "LQTY from Ethereum",
-      "symbol": "LQTY",
+      "symbol": "eLQTY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xd434B46D7de8B54f7dad81886B5010c269a6F730.png"
     },
@@ -8691,7 +8691,7 @@
       "chainId": 369,
       "address": "0xd5B4BeB2983Efc60D973E78B54D50a8837B64fD2",
       "name": "SAND from Ethereum",
-      "symbol": "SAND",
+      "symbol": "eSAND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xd5B4BeB2983Efc60D973E78B54D50a8837B64fD2.png"
     },
@@ -8747,7 +8747,7 @@
       "chainId": 369,
       "address": "0xe706b22396A57A4531Bcf94523D523e5D98FB480",
       "name": "PRG from Ethereum",
-      "symbol": "PRG",
+      "symbol": "ePRG",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xe706b22396A57A4531Bcf94523D523e5D98FB480.png"
     },
@@ -8763,7 +8763,7 @@
       "chainId": 369,
       "address": "0xea93Dcebb4BFE351d22c63caC42a2F88C0138A34",
       "name": "AIOZ Network from Ethereum",
-      "symbol": "AIOZ",
+      "symbol": "eAIOZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xea93Dcebb4BFE351d22c63caC42a2F88C0138A34.png"
     },
@@ -8795,7 +8795,7 @@
       "chainId": 369,
       "address": "0xf6054Db128A229CF25353Cd5FD39997da0305bd1",
       "name": "Maker from Ethereum",
-      "symbol": "MKR",
+      "symbol": "eMKR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xf6054Db128A229CF25353Cd5FD39997da0305bd1.png"
     },
@@ -8843,7 +8843,7 @@
       "chainId": 369,
       "address": "0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c",
       "name": "DinoLFG from Ethereum",
-      "symbol": "DINO",
+      "symbol": "eDINO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c.png"
     },
@@ -8859,7 +8859,7 @@
       "chainId": 369,
       "address": "0x542d62F23A2C7D17d045E3b22e3Ab530cA39AfC4",
       "name": "go fu*k yourself. from Ethereum",
-      "symbol": "GFY",
+      "symbol": "eGFY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x542d62F23A2C7D17d045E3b22e3Ab530cA39AfC4.png"
     },
