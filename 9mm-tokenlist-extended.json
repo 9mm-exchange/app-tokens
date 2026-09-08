@@ -13435,10 +13435,10 @@
     {
       "chainId": 369,
       "address": "0x4cb4edde04772332a42ecb039f3790e17733b4b8",
-      "name": "PUSSY (HOAX)",
-      "symbol": "PUSSY",
+      "name": "Pew Cats",
+      "symbol": "PEWCAT",
       "decimals": 18,
-      "logoURI": "https://gib.show/image/direct/327b45386871f8efa484b865f14994440fe00770d066f0ee15b60b3e10487748.webp"
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/token-logo/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
     },
     {
       "chainId": 369,

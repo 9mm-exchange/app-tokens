@@ -1994,8 +1994,8 @@
     {
       "chainId": 1,
       "address": "0x903E388142F30e7deD846f876594dbad2D9fbb52",
-      "name": "PUSSY",
-      "symbol": "PUSSY",
+      "name": "Pew Cats",
+      "symbol": "PEWCAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/eth/0x903E388142F30e7deD846f876594dbad2D9fbb52.png"
     },

@@ -1032,8 +1032,8 @@
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/refs/heads/main/sonic-logos/0xF03fA1C72aE83e22297321f5D34aE47825Af8BEe.png"
     },
     {
-      "name": "PUSSY",
-      "symbol": "PUSSY",
+      "name": "Pew Cats",
+      "symbol": "PEWCAT",
       "address": "0x195f4682237D52292a293f2D33E94d911Bc1F85E",
       "chainId": 146,
       "decimals": 18,
