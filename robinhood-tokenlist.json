@@ -1,10 +1,10 @@
 {
   "name": "9mm Robinhood Tokens",
-  "timestamp": "2026-08-17T19:12:49.292Z",
+  "timestamp": "2026-09-10T14:13:01.146Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/9mm.png",
   "tokens": [
@@ -1743,6 +1743,14 @@
       "symbol": "PRINTER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x85a574f2fF0795685F58d1D7B0D4b51F148Ac489.png"
+    },
+    {
+      "chainId": 4663,
+      "name": "Pew Cats",
+      "address": "0x195f4682237D52292a293f2D33E94d911Bc1F85E",
+      "symbol": "PEWCAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/9mm-exchange/app-tokens/main/robinhood-logos/0x195f4682237D52292a293f2D33E94d911Bc1F85E.png"
     }
   ]
 }
